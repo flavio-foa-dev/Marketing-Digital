@@ -286,5 +286,116 @@ Se você aparece várias vezes para as pessoas que consomem ou que podem consumi
 
 Se você tem maior presença digital, as pessoas lembram mais de você.
 
+# colocar em prática
+O primeiro passo é conseguir montar um planejamento coeso de marketing, abordando os principais temas, equipes que vão participar e o que precisamos documentar para ter um planejamento que traga resultados a empresa.
+
+1. Defina metas claras e objetivas
+Devemos começar sabendo onde queremos chegar. Você conhece essa frase: "não saia de casa sem saber onde você quer ir, senão é melhor ficar em casa"?
+
+Então, defina seus objetivos de forma clara, coesa e possível. E lembre-se de definir com detalhes para conseguir mensurar os resultados posteriormente.
+
+Por exemplo, um objetivo comum de todas as empresas é:
+
+"Aumentar as vendas"
+
+Mas, esse objetivo pode ser mais específico. Em quanto queremos aumentar as vendas?
+
+Podemos trocar o objetivo por:
+
+"Aumentar as vendas em 20% no próximo trimestre"
+
+Assim, definimos uma meta alcançável, mais palpável e que conseguimos metrificar de uma maneira mais eficaz.
+
+Afinal, você pode fazer 100 vendas esse mês e no seguinte mês fazer 101 vendas e alcançar o objetivo de "aumentar vendas". Mas, foi realmente eficaz para o plano de marketing que você reuniu sua equipe para montar?
+
+Por isso, é importante deixar de forma clara e objetiva onde queremos chegar com o nosso planejamento.
+
+2. Tudo precisa ser mensurável
+Para que o objetivo seja mensurável, é preciso definir KPIs, ou seja, indicadores-chave de sucesso.
+
+Retomando o exemplo, se o seu objetivo é aumentar as vendas, um tipo de KPI pode ser o número de conversões no site.
+
+Vamos usar esse número de conversões do e-commerce para colocar como uma KPI indicadora de sucesso. É preciso se atentar a essa métrica para entender se realmente aumentamos as vendas dentro do nosso planejamento.
+
+3. Seja relevante
+Também é preciso ser relevante.
+
+Vamos focar em aumentar as vendas, mas de um produto que já tenha uma aceitação no mercado e que sane algum tipo de dor, isto é, entregue uma solução para uma possível pessoa consumidora.
+
+Devemos entender essa relevância para não destinar nossos esforços de equipe, verba e investimento em um produto que pode não ter uma saída boa e não resolve os problemas da clientela.
+
+Saber se o produto é relevante precisa ser levado em consideração na hora de fazer um planejamento de marketing.
+
+4. Seja realista
+Além disso, precisamos ser realistas. Não adianta traçar objetivos irreais a curto prazo.
+
+Se a nossa meta é aumentar em 20% as nossas vendas no próximo trimestre, vamos trabalhar para chegar o mais próximo possível dessa porcentagem de crescimento. Se colocamos uma meta de 20%, mas trabalhamos para entregar 50%, o objetivo possivelmente não será alcançado porque está fora da realidade.
+
+É importante trabalhar considerando os recursos, a capacidade da equipe e a realidade da empresa.
+
+5. Estabeleça prazos
+Por fim, temos que estabelecer prazos realistas. Apesar disso, é importante que a equipe e todas as partes interessadas do trabalho tenham senso de urgência.
+
+Todo planejamento envolve prazos para cada etapa e equipe do processo - não somente para quando começa e termina.
+
+Com isso, começamos a ter um esboço de planejamento coeso para ter sucesso no decorrer do nosso trabalho.
+
+# fase da pesquisa de mercado
+A pesquisa de mercado vai te ajudar a entender o mercado que você atua ou vai atuar. Tanto para entender as necessidades e desejos do público-alvo, quanto para identificar os desafios e oportunidades do mercado.
+
+Nesse momento de pesquisa de mercado, é importante ter uma definição clara da sua persona e também da concorrência.
+
+Além disso, existem algumas etapas e boas práticas que podemos seguir para conseguir fazer uma boa pesquisa de mercado.
+
+
+### Público-alvo
+Primeiro, devemos entender nosso público-alvo, isto é, a persona. Isso vai nos ajudar a direcionar o planejamento a um público mais assertivo e relevante para o negócio.
+
+Por isso, é necessário fazer a pesquisa de persona.
+
+### Ferramentas de pesquisa online
+Para fazer uma grande pesquisa já com nossa clientela, existem ferramentas de pesquisa online.
+
+Pois podemos pesquisar o público antes de chegar até ele, mas também podemos pesquisar sobre o público que já temos para definir quem interage e compra mais da marca.
+
+Essa etapa não precisa ser complicada. Temos várias ferramentas (muitas delas gratuitas) para nos ajudar a fazer essa pesquisa interna, como Google Forms, SurveyMonkey e Typeform.
+
+São plataformas para criar questionários e enviar de forma online para a cliente - seja via WhatsApp ou e-mail.
+
+### Análise de redes sociais
+Atualmente, todas as plataformas de rede social nos oferecem os insights que são os dados a própria plataforma coleta sobre a nossa audiência.
+
+Todos os perfis comerciais têm recursos de análise de público-alvo. Dessa forma, conseguimos visualizar dados demográficos, idade e interesses de pessoas que seguem e interagem com seu perfil. Com isso, temos um detalhamento proveitoso de informações para compor nossa pesquisa de mercado.
+
+### Google Analytics
+O Google Analytics pode ser usado para fazer essa pesquisa no seu site, e não nas redes sociais.
+
+Essa é uma ferramenta gratuita do Google para coletar e organizar os dados das pessoas usuárias que navegam pelo nosso site.
+
+Dessa forma, é possível identificar padrões de navegação, tempo de permanência no site e taxa de rejeição. A taxa de rejeição é quando as pessoas entram e saem muito rápido do seu site. Isso significa que elas não encontraram o que estavam procurando ou que o site não foi atrativo o suficiente para ela permanecer lá.
+
+Além disso, podemos detectar outras informações importantes para entender o comportamento do público-alvo. Por exemplo, onde as pessoas clicam e qual página passam mais tempo navegando.
+
+Em suma, o Google Analytics é muito útil para fazer essa coleta de dados das pessoas usuárias.
+
+### Benchmarking
+Também é importante fazer benchmarking, isto é, uma pesquisa de concorrência. Essa técnica de pesquisa envolve a comparação das estratégias de marketing digital da sua marca com concorrentes e empresas do mesmo setor
+
+O benchmarking ajuda a identificar oportunidades e tendências do mercado que você atua.
+
+Não é complicado fazer o benchmarking, pois pode ser feito pela equipe até por meio de análises. Por exemplo, comparar o Instagram da marca concorrente e da sua marca ao fazer análises realistas de ambas perfomances. Também pode fazer o mesmo em outras redes sociais.
+
+É sempre bom entender o que as pessoas ao nosso redor estão fazendo e o que podemos aproveitar ou adaptar para fazer melhor.
+
+### Documente tudo!
+Pode parecer óbvio, mas é importante ressaltar a importância de documentar todas as etapas do planejamento de marketing digital.
+
+De preferência, documente na nuvem, isto é, em plataformas online onde você consegue compartilhar o acesso entre toda a equipe. Por exemplo, temos o Google Drive, Dropbox, Notion, Trello, entre outras.
+
+São várias as ferramentas que vão te auxiliar nessa tomada de decisão e documentação do dia a dia.
+
+
+
+
 
 
