@@ -220,5 +220,71 @@ Nesse caso, o LinkedIn usa o aprendizado de máquina para oferecer esse anúncio
 
 Mas, não é só o LinkedIn que tem esse tipo de anúncio automático. O Google Ads e o Meta Ads também têm e estão ganhando força, porque essas plataformas ficam cada vez mais inteligentes e atingem objetivos muito satisfatórios para quem anuncia.
 
+# principais plataformas da internet para anunciantes,
+
+## Google Ads
+A principal plataforma do tráfego pago na internet atualmente é o Google Ads.
+
+Dentro do Google Ads conseguimos fazer com que nossos anúncios apareçam na rede de pesquisa do Google Search e na rede de display que são os anúncios gráficos em sites parceiros do Google, como sites de notícias e blogs. Também aparecem no YouTube e no Google Shopping que é aquela aba de "shopping" na pesquisa do Google.
+
+É uma coletânea com várias possibilidades de anúncio que podemos cogitar para o planejamento de marketing digital.
+
+## Meta Ads
+A próxima plataforma é a grande Meta Ads, que possui esse nome desde a fusão do grupo que conta com plataformas conhecidas como:
+
+Facebook Ads;
+Instagram;
+Messenger (aplicativo de mensagem do Facebook);
+Audience Network que também está no Facebook.
+Dentro do Meta Ads, conseguimos veicular anúncios em imagem, vídeo, carrossel (várias imagens agrupadas que passam ao arrastar para o lado), coleção, mensagem e outros formatos.
+
+Também é uma das plataformas mais utilizadas para impactar nossa audiência com anúncios.
+
+Qual é a melhor plataforma para investir?
+Mas, onde anunciar? Qual o melhor canal?
+
+Não, acreditamos que exista um melhor canal de anúncios. Existe um canal mais apropriado para o seu objetivo e produto.
+
+Por exemplo, anunciar na rede de pesquisa é mais eficaz para serviços, principalmente serviços de urgência. Se você está a procura de um dentista ou de onde trocar a bateria do seu carro, geralmente você usa o Google para esse tipo de pesquisa.
+
+Porém, se você anuncia bens de necessidade que a pessoa pode não pesquisar, mas vai querer adquirir o produto ao se deparar com a publicidade, as redes sociais são um caminho interessante para seu investimento.
+
+## Outras plataformas
+Outras plataformas que também têm recursos de anúncios são o LinkedIn Ads, TikTok Ads, Twitter Ads, a Microsoft Advertising (que tem o Bing, Yahoo! e MSN dentro do grupo), além da Amazon Advertising que permite anunciar especificamente dentro de produtos da Amazon.
+
+# principais benefícios e diferenciais de utilizar e estudar mais profundamente o tráfego pago nas suas estratégias de marketing digital.
+
+### Aumento imediato de tráfego
+O tráfego pago traz resultados a curto prazo. Por isso, se você acabou de lançar um site ou produto e você quer que tenha mais views (visualizações), engajamento e compartilhamento, o tráfego pago é o caminho mais curto para alcançar esse objetivo.
+
+### Segmentação precisa
+Dentro dos canais de criação de links e postagens patrocinados, conseguimos segmentar exatamente o público que queremos alcançar, ou seja, para quem nosso anúncio apareça.
+
+Você pode segmentar por idade, local, interesse e outros fatores que ficam a critério do seu produto.
+
+### Controle de verba
+Com o tráfego pago você consegue saber e controlar exatamente o quanto você gasta no seu investimento em anúncios.
+
+Se você colocar que seu investimento diário em uma postagem patrocinada no Instagram é de trinta reais, você não gasta mais do que essa quantidade por dia. E você pode gastar trinta reais hoje e cancelar a sua campanha amanhã e não vai gastar mais por isso.
+
+Assim, você tem total controle sobre a verba investida no seu projeto.
+
+### Mensuração de ROI
+O ROI é a sigla para retorno sobre o investimento. Assim como conseguimos mensurar que vamos gastar apenas trinta reais diariamente no anúncio patrocinado no Instagram, também conseguimos calcular quanto que retornou a partir desse dinheiro.
+
+Se você gasta trinta reais para anunciar um produto de cem reais e faz três vendas no dia, você já teve um bom retorno sobre o investimento colocado para anunciar o seu produto.
+
+### Flexibilidade e escala
+Também temos total flexibilidade para escalar o nosso anúncio, ou seja, para aumentar nossa verba e prazo de veiculação do anúncio. Mas, também para diminuir a verba ou mudar a segmentação do público.
+
+Com o tráfego pago temos total liberdade criativa sobre os anúncios publicados na internet - o que traz uma comodidade e assertividade nas nossas coletas de dados e resultados obtidos à medida que os anúncios são veiculados.
+
+### Maior presença digital
+Além disso, temos maior presença digital. É como aquela velha frase "quem não é visto, não é lembrado".
+
+Se você aparece várias vezes para as pessoas que consomem ou que podem consumir seu produto ou serviço, com certeza sua marca fica inconscientemente na mente dessas pessoas. Desse modo, elas lembram da sua marca na hora de comprar de fato aquele produto que você oferece.
+
+Se você tem maior presença digital, as pessoas lembram mais de você.
+
 
 
