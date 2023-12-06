@@ -394,7 +394,43 @@ De preferência, documente na nuvem, isto é, em plataformas online onde você c
 
 São várias as ferramentas que vão te auxiliar nessa tomada de decisão e documentação do dia a dia.
 
+1. Definir canais de comunicação
+Para começar, precisamos definir os canais de comunicação onde vamos falar com o nosso público-alvo.
 
+Para isso, devemos entender qual a rede social ou plataforma digital que a marca e o conteúdo mais se adequa para falar com o público-alvo.
+
+Se vamos fazer um plano de marketing para conversar com o pessoal que está no YouTube e no LinkedIn, devemos deixar registrado que todo conteúdo criado precisa ser adaptado para esses canais. É essencial saber essa informação antes de qualquer outra etapa.
+
+2. Criar calendário editorial
+Depois, devemos criar um calendário editorial, pois precisamos saber quais são os temas que vamos trabalhar dentro do planejamento.
+
+O calendário editorial não é um panfleto de supermercado. Em outras palavras, não é para ficar toda hora postando o produto com o preço.
+
+Podemos apresentar qual a solução que nosso produto oferece para a pessoa consumidora, qual o diferencial do produto, uma curiosidade sobre o produto e até um backstage (bastidor) da empresa.
+
+É possível planejar esses temas com antecedência em um calendário editoral para saber quais pautas vamos trabalhar, qual produto, linha de produtos ou campanha sazonal divulgar mais massivamente.
+
+3. Identificar palavras-chave
+Também devemos identificar as principais palavras-chave do produto ou serviço. Esse filtro é essencial para que nosso conteúdo tenha coesão.
+
+Por exemplo, é preciso definir essas palavras-chave antes de criar um texto para o blog. Afinal, esse texto vai precisar conter essas palavras.
+
+No momento da pesquisa e direcionamento do conteúdo, é importante ter esse rastreio dos principais termos de pesquisa e palavras-chave referente ao seu produto ou serviço.
+
+4. Monitorar e avaliar desempenho
+Por fim, é preciso monitorar e avaliar o desempenho de todas as publicações e conteúdos que colocamos no ar. Nessa etapa entram os tipos de conteúdos que citamos na aula de tráfego orgânico e pago.
+
+O que você está enviando para sua audiência e clientela? É preciso monitorar esse conteúdo - seja postagem, vídeo no YouTube, artigo no blog ou e-mail marketing.
+
+Mas, como monitorar? Pela taxa de engajamento nas redes sociais, views (visualizações) no YouTube, taxa de abertura de clique do seu e-mail marketing.
+
+É importante entender o desempenho desse conteúdo e a relação com as suas vendas.
+
+Será que a pessoa que clique no e-mail marketing está entrando depois no site? A pessoa que está no YouTube assistiu ao vídeo completo? Será que ela compartilhou o vídeo com alguém no Instagram? Será que ela comentou no vídeo no TikTok? Os relatórios de análise vão te informar esses dados.
+
+É de extrema importância ter todos esses dados documentados - até para entender qual o tipo de conteúdo que performa melhor no seu planejamento de marketing.
+
+O planejamento de marketing não é "engessado", ou seja, algo que não pode mudar. Se você faz um plano para trinta dias e no décimo dia você identifica que seu plano não está seguindo o caminho que você gostaria, é possível trocar a rota e adaptar o conteúdo com base nos dados e respostas que você recebeu sobre o que foi entregue.
 
 
 
