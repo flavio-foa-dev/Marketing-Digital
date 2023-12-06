@@ -433,5 +433,133 @@ Será que a pessoa que clique no e-mail marketing está entrando depois no site?
 O planejamento de marketing não é "engessado", ou seja, algo que não pode mudar. Se você faz um plano para trinta dias e no décimo dia você identifica que seu plano não está seguindo o caminho que você gostaria, é possível trocar a rota e adaptar o conteúdo com base nos dados e respostas que você recebeu sobre o que foi entregue.
 
 
+# Métricas do Marketing Digital
+### O que não é medido, não é gerenciável!
 
+Isso significa que entender e interpretar as métricas é algo essencial para o sucesso do seu projeto.
 
+Como são análises que devem ser feitas periodicamente, há profissionais do marketing responsáveis especificamente por essa demanda.
+
+Esse é o caso do analista de Web Analytics e dos gestores que verificam desde sites, até o trafego pago e CRM.
+
+A análise das métricas são benéficas de diversas formas.
+
+Elas ajudam a:
+
+Identificar novas oportunidades de mercado. Isso inclui perceber melhor o comportamento do usuário, dessa forma é possível se programar para atender suas necessidades;
+Avaliar a eficácia de campanhas de marketing;
+Identificar tendências de comportamento do consumidor;
+Otimizar a alocação de recursos de marketing. É possível saber se uma campanha está performando melhor que outra e assim definir uma nova divisão de verba;
+Identificar oportunidades de upsell e cross-sell;
+Aumentar o ROI (retorno sobre investimento) das atividades de marketing;
+Principais métricas do marketing
+É importante lembrar que as métricas variam conforme o canal de comunicação e/ou publicidade.
+
+O Google Analytics e o Facebook Ads proporcionam relatórios diferentes, assim como o YouTube e o Instagram. Cada canal de comunicação possui sua particularidade.
+
+Porém, existem algumas métricas mais utilizadas na análise e documentação dos resultados de uma empresa. Vamos conhecê-las.
+
+Site ou Página de Captura
+Uma das métricas que não pode deixar de ser analisada em um site ou página de captura é o tráfego.
+
+Como aprendemos anteriormente, ele se refere ao número pessoas que navegam pelo seu negócio digitalmente. É preciso monitorar constantemente esse dado, afinal, se estiver muito baixo, é preciso pensar em ações para aumentá-lo.
+
+As conversões também precisam ser monitoradas constantemente. Se seu site tiver muito tráfego e pouca conversão significa que algo precisa ser melhorado no caminho percorrido pela pessoa usuária no seu site.
+Isso significa que entender e interpretar as métricas é algo essencial para o sucesso do seu projeto.
+
+Como são análises que devem ser feitas periodicamente, há profissionais do marketing responsáveis especificamente por essa demanda.
+
+Esse é o caso do analista de Web Analytics e dos gestores que verificam desde sites, até o trafego pago e CRM.
+
+A análise das métricas são benéficas de diversas formas.
+
+Elas ajudam a:
+
+Identificar novas oportunidades de mercado. Isso inclui perceber melhor o comportamento do usuário, dessa forma é possível se programar para atender suas necessidades;
+Avaliar a eficácia de campanhas de marketing;
+Identificar tendências de comportamento do consumidor;
+Otimizar a alocação de recursos de marketing. É possível saber se uma campanha está performando melhor que outra e assim definir uma nova divisão de verba;
+Identificar oportunidades de upsell e cross-sell;
+Aumentar o ROI (retorno sobre investimento) das atividades de marketing;
+Principais métricas do marketing
+É importante lembrar que as métricas variam conforme o canal de comunicação e/ou publicidade.
+
+O Google Analytics e o Facebook Ads proporcionam relatórios diferentes, assim como o YouTube e o Instagram. Cada canal de comunicação possui sua particularidade.
+
+Porém, existem algumas métricas mais utilizadas na análise e documentação dos resultados de uma empresa. Vamos conhecê-las.
+
+Site ou Página de Captura
+Uma das métricas que não pode deixar de ser analisada em um site ou página de captura é o tráfego.
+
+Como aprendemos anteriormente, ele se refere ao número pessoas que navegam pelo seu negócio digitalmente. É preciso monitorar constantemente esse dado, afinal, se estiver muito baixo, é preciso pensar em ações para aumentá-lo.
+
+As conversões também precisam ser monitoradas constantemente. Se seu site tiver muito tráfego e pouca conversão significa que algo precisa ser melhorado no caminho percorrido pela pessoa usuária no seu site.
+
+A contabilização das conversões varia conforme o objetivo do seu negócio, podendo ser uma compra, um clique no link de telefone ou o envio de formulário.
+
+A taxa de conversão é um percentual das conversões, ou seja, quantos por cento das pessoas que trafegam no site convertem conforme o objetivo do negócio.
+
+Outra métrica é a taxa de rejeição. Quando uma plataforma, como o Google Analytics, não consegue identificar o tempo que um usuário navegou pela sua página, por ser rápido demais, é metrificado como uma rejeição. Essa taxa também está relacionada ao nível de satisfação das pessoas usuárias que acessam seu conteúdo.
+
+Redes Sociais
+Uma das métricas essenciais a serem analisadas nas redes sociais é o alcance, ou seja, quantas pessoas estão recebendo o seu conteúdo.
+
+Dessas pessoas que receberam o conteúdo também é metrificado quantas interagem com ele, por meio de comentários e compartilhamento, por exemplo. Essa é a métrica de engajamento.
+
+Esses dados também estão relacionados ao próprio algoritmo da rede social utilizada, porém, é importante que o conteúdo seja de qualidade e atrativo para o público-alvo.
+
+Se a publicação está tendo um bom alcance e pouco engajamento, deve ser feito uma análise para entender o motivo pelo qual isso vem ocorrendo.
+
+Tráfego Pago
+O tráfego pago inclui Google Ads, Facebook Ads, TikTok, Twitter e todas as plataformas que disponibilizam a possibilidade de mídia paga.
+
+O Custo por clique (CPC) é uma das métricas necessárias nesse segmento e muito utilizada principalmente em campanhas de rede de pesquisa do Google Ads. Quando a pessoa clica no link na rede de pesquisa, um valor é pago.
+
+A segunda métrica é o Custo por lead (CPL), nesse caso é realizado um cálculo referente ao valor pago a cada lead gerado.
+
+O Custo por aquisição ou conversão (CPA) está relacionado ao valor do seu produto. No caso se um e-commerce, por exemplo, se refere a quanto foi investido em mídia paga para a pessoa comprar um determinado produto.
+
+A quarta métrica essencial nesse segmento é o Retorno do investimento (ROI). Ele se refere ao resultado financeiro de um investimento realizado. Se você investe R$1000 por mês em mídia paga, quanto há de retorno para a empresa.
+
+É muito importante acompanhar o crescimento do ROI nas mídias pagas para verificar se a empresa está tendo lucro ou não.
+
+Métricas de vaidade
+São métricas que não se referem ao sucesso do negócio. Porém, trazem informações relevantes e que devem ser consideradas para identificar melhorias. Alguns exemplos são o número de seguidores, inscritos e curtidas.
+
+Porém, se você possui 50 mil seguidores e menos de 5% deles são clientes, esse número não tem valor. Nesse caso, seria melhor ter 10mil seguidores no qual 80% fossem parte da sua comunidade e clientes fidelizados.
+
+Por isso é muito importante separar esse tipo de métrica quando analisá-la, já que elas não ajudam na tomada de decisões relevantes.
+A contabilização das conversões varia conforme o objetivo do seu negócio, podendo ser uma compra, um clique no link de telefone ou o envio de formulário.
+
+A taxa de conversão é um percentual das conversões, ou seja, quantos por cento das pessoas que trafegam no site convertem conforme o objetivo do negócio.
+
+Outra métrica é a taxa de rejeição. Quando uma plataforma, como o Google Analytics, não consegue identificar o tempo que um usuário navegou pela sua página, por ser rápido demais, é metrificado como uma rejeição. Essa taxa também está relacionada ao nível de satisfação das pessoas usuárias que acessam seu conteúdo.
+
+Redes Sociais
+Uma das métricas essenciais a serem analisadas nas redes sociais é o alcance, ou seja, quantas pessoas estão recebendo o seu conteúdo.
+
+Dessas pessoas que receberam o conteúdo também é metrificado quantas interagem com ele, por meio de comentários e compartilhamento, por exemplo. Essa é a métrica de engajamento.
+
+Esses dados também estão relacionados ao próprio algoritmo da rede social utilizada, porém, é importante que o conteúdo seja de qualidade e atrativo para o público-alvo.
+
+Se a publicação está tendo um bom alcance e pouco engajamento, deve ser feito uma análise para entender o motivo pelo qual isso vem ocorrendo.
+
+Tráfego Pago
+O tráfego pago inclui Google Ads, Facebook Ads, TikTok, Twitter e todas as plataformas que disponibilizam a possibilidade de mídia paga.
+
+O Custo por clique (CPC) é uma das métricas necessárias nesse segmento e muito utilizada principalmente em campanhas de rede de pesquisa do Google Ads. Quando a pessoa clica no link na rede de pesquisa, um valor é pago.
+
+A segunda métrica é o Custo por lead (CPL), nesse caso é realizado um cálculo referente ao valor pago a cada lead gerado.
+
+O Custo por aquisição ou conversão (CPA) está relacionado ao valor do seu produto. No caso se um e-commerce, por exemplo, se refere a quanto foi investido em mídia paga para a pessoa comprar um determinado produto.
+
+A quarta métrica essencial nesse segmento é o Retorno do investimento (ROI). Ele se refere ao resultado financeiro de um investimento realizado. Se você investe R$1000 por mês em mídia paga, quanto há de retorno para a empresa.
+
+É muito importante acompanhar o crescimento do ROI nas mídias pagas para verificar se a empresa está tendo lucro ou não.
+
+Métricas de vaidade
+São métricas que não se referem ao sucesso do negócio. Porém, trazem informações relevantes e que devem ser consideradas para identificar melhorias. Alguns exemplos são o número de seguidores, inscritos e curtidas.
+
+Porém, se você possui 50 mil seguidores e menos de 5% deles são clientes, esse número não tem valor. Nesse caso, seria melhor ter 10mil seguidores no qual 80% fossem parte da sua comunidade e clientes fidelizados.
+
+Por isso é muito importante separar esse tipo de métrica quando analisá-la, já que elas não ajudam na tomada de decisões relevantes.
