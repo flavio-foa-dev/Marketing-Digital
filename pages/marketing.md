@@ -563,3 +563,4 @@ São métricas que não se referem ao sucesso do negócio. Porém, trazem inform
 Porém, se você possui 50 mil seguidores e menos de 5% deles são clientes, esse número não tem valor. Nesse caso, seria melhor ter 10mil seguidores no qual 80% fossem parte da sua comunidade e clientes fidelizados.
 
 Por isso é muito importante separar esse tipo de métrica quando analisá-la, já que elas não ajudam na tomada de decisões relevantes.
+
