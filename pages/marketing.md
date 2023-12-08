@@ -564,3 +564,5 @@ Porém, se você possui 50 mil seguidores e menos de 5% deles são clientes, ess
 
 Por isso é muito importante separar esse tipo de métrica quando analisá-la, já que elas não ajudam na tomada de decisões relevantes.
 
+### marketing
+
