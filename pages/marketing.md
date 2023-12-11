@@ -564,7 +564,74 @@ Porém, se você possui 50 mil seguidores e menos de 5% deles são clientes, ess
 
 Por isso é muito importante separar esse tipo de métrica quando analisá-la, já que elas não ajudam na tomada de decisões relevantes.
 
-### marketing
+### marketing analytics
+O marketing analytics é o processo de coleta, análise e interpretação de dados relacionados às atividades de marketing de uma empresa, com o objetivo de identificar oportunidades de melhorias e otimizar a estratégia de marketing.
 
+Todas as métricas que aprendemos anteriormente estão dentro do marketing analytics, como CPC, CPL, engajamento, alcance, tráfego, entre outras.
+
+Existe uma correlação com dados, BI (business intelligence), interpretar dashboards. Uma pessoa que tenha knowhow (conhecimento) em dados e uma facilidade em interpretação e montagem de dashboard com certeza tem futuro dentro dessa área de marketing analytics. Inclusive, é uma área muito explorada no mercado de trabalho atualmente. Contudo, nesse curso vamos falar especificamente sobre marketing digital.
+
+### Ferramentas de análises de dados
+Existem várias ferramentas que profissionais de marketing utilizam no dia a dia, tanto gratuitas quanto pagas. Essas ferramentas disponíveis vão fazer um compilado de dados, ou seja, vão organizar, setorizar e nos entregar os dados das pessoas usuárias que navegam nas redes da empresa.
+
+A principal ferramenta de marketing analytics do mercado atual é o Google Analytics. O que não significa que é a única ferramenta, mas é a mais utilizada por ser gratuita e de implementação total em todas as plataformas de site.
+
+Além disso, é uma ferramenta da Google, uma empresa que é a matriz de conhecimento sobre SEO, otimização de sites e comportamento de pessoas usuárias.
+
+Se você acabou de fazer um site e vai colocá-lo no ar para divulgar seu serviço, faça integração com Google Analytics para começar a rastrear os dados das pessoas usuárias.
+
+Também temos outra ferramenta gratuita da Google, o Google Search Console para te auxiliar na integração. Essa ferramenta vai ajudar principalmente pessoas desenvolvedoras a entender se a performance do site está de acordo com as condições do Google.
+
+Por exemplo, facilita a identificação de problemas de indexação de página, carregamento, se todas as páginas estão no ar e se tem algum erro que precisa ser corrigido no domínio ou URL.
+
+O Google Search Console dá esse compilado de informações muito úteis que você precisar alinhar para que o Google Analytics consiga rastrear esses dados da maneira mais eficaz possível e te entrar essa documentação.
+
+Com essas ferramentas, falamos especificamente sobre sites e landing pages. Mas, o marketing analytics não se resume só a isso. Há outras ferramentas de marketing que também vão entregar relatórios personalizáveis sobre os acessos e comportamentos das pessoas usuárias nas suas páginas.
+
+Por exemplo, o Facebook Ads (Meta Ads) vai te entregar um relatório personalizado com todas as ações que as pessoas tiveram dentro da sua fanpage e campanhas pagas. O YouTube também te entrega um relatório completo dos acessos no seu canal, pessoas inscritas e engajamento, bem como o TikTok Ads.
+
+Cada plataforma que oferece essa possibilidade de criar anúncios ou criar um perfil empresarial (para criadores de conteúdo ou empresas), também vai te disponibilizar esses dados de engajamento, acessos e cliques de forma bem detalhada e bem importante para sua análise de negócio.
+
+Faça perguntas
+Mas, quais são os insights? Quais são as perguntas que devemos fazer para nós mesmos quando abrimos um relatório para fazer uma leitura e análise?
+
+Qual canal de marketing está gerando mais conversões?
+
+O primeiro questionamento é para entender onde seu conteúdo performa melhor. Às vezes você vai ter um conteúdo mais interessante no YouTube, outras vezes nas redes sociais.
+
+É importante entender qual desses conteúdos está mais alinhado com a sua audiência para conseguir otimizar esse conteúdo e prestar atenção nos seus outros canais de comunicação.
+
+Qual é o perfil demográfico do público-alvo que mais consome meu produto/serviço?
+
+Essa resposta é fundamental fazer a análise de persona e público-alvo ideal. Onde está esse pessoal que gosta de consumir o que você produz? Os relatórios de marketing analytics também vão te dar essas informações.
+
+Por isso, é interessante que você já tenha um tempo de site no ar e redes sociais funcionando para montar sua persona. Dessa forma, você vai entender a partir do comportamento das pessoas.
+
+Por vezes, fazemos uma pesquisa de mercado antes de lançar um produto e você tem uma visão do seu público-alvo que pode ser diferente na prática. Essas ferramentas vão te dar mais clareza na hora de conceber esses tipos de detalhes.
+
+Quais são os dias e horários em que tenho mais engajamento nas redes sociais?
+
+É importante identificar essa medida para ajustar seu cronograma de conteúdo para horários ou dias em que seu público está mais ativo e participativo.
+
+Será que é interessante você postar seu conteúdo em um domingo de manhã? Será que não seria melhor o conteúdo ir para as redes sociais no final do dia da quinta ou sexta?
+
+Essas são perguntas que você deve se fazer, computar e documentar na hora de fazer uma análise dos seus relatórios.
+
+## A importância da análise
+No cenário cada vez mais complexo do marketing digital, a análise de dados emerge como uma bússola indispensável para orientar estratégias e garantir o sucesso. A era digital trouxe consigo uma infinidade de informações valiosas geradas por interações online, e a capacidade de capturar e interpretar esses dados oferece uma vantagem competitiva inestimável. Vamos explorar a importância crítica da análise de dados no marketing digital e como ela molda decisões informadas em busca de resultados impactantes.
+
+1. Conhecimento do Público-Alvo: A análise de dados permite uma compreensão profunda do público-alvo. Ao rastrear comportamentos, interesses e preferências, as marcas podem construir perfis detalhados de seus clientes. Essa percepção permite a criação de conteúdo altamente relevante e estratégias de direcionamento mais precisas.
+
+2. Otimização de Campanhas: A análise de dados oferece insights sobre o desempenho das campanhas em tempo real. Métricas como taxas de cliques (CTR), taxas de conversão e engajamento do usuário fornecem um instantâneo claro de quais abordagens estão funcionando e quais precisam de ajustes. Essa capacidade de otimizar estratégias durante a campanha resulta em um uso mais eficiente dos recursos.
+
+3. Identificação de Tendências e Padrões: Ao analisar conjuntos de dados extensos ao longo do tempo, é possível identificar tendências e padrões que podem orientar decisões futuras. Isso não apenas antecipa as necessidades dos clientes, mas também permite que as marcas se adaptem proativamente às mudanças no comportamento do consumidor.
+
+4. Personalização e Engajamento: Com uma compreensão mais profunda do público, as marcas podem criar experiências altamente personalizadas. A análise de dados ajuda a determinar quais tipos de conteúdo ressoam melhor com diferentes segmentos, aumentando o engajamento e a lealdade do cliente.
+
+5. Mensuração de ROI: A análise de dados é fundamental para avaliar o retorno sobre o investimento (ROI) das campanhas de marketing. Ao monitorar quanto dinheiro está sendo gasto e o valor gerado em troca, as marcas podem ajustar suas estratégias para maximizar os resultados.
+
+6. Tomada de Decisões Embasadas: Em vez de depender de suposições e intuições, a análise de dados fornece informações concretas para orientar decisões. Isso reduz o risco de investir em abordagens que podem não ser eficazes e promove a confiança nas decisões tomadas.
+
+7. Agilidade e Inovação: A análise de dados possibilita a rápida identificação de áreas que precisam de melhoria ou inovação. As marcas podem responder às mudanças no mercado com agilidade, mantendo-se à frente da concorrência.
 
 
