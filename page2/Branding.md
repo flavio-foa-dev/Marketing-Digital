@@ -116,3 +116,93 @@ A empresa oferecer uma experiência de compra baseada nas preferências de cada 
 Personalizar a experiência de compra para cada cliente com base em suas preferências é uma estratégia de personalização eficaz. Isso pode incluir a personalização de recomendações de produtos, sugestões de compras complementares, ofertas personalizadas, entre outros.
 
 # Philip Kotler pai do marketing
+
+Philip Kotler é considerado o pai do marketing. Ele estudou todas suas diferentes fases, desde quando era focado na produção de produtos em grandes quantidades até a transformação digital e a evolução para o marketing 5.0.
+
+Marketing 5.0
+O marketing 5.0 é a tecnologia para a humanidade. Tem como objetivo gerar uma aproximação mais sólida entre marcas e pessoas consumidoras com apoio das soluções tecnológicas.
+
+Coleta de dados
+Essa nova fase do marketing é totalmente orientada por dados. Atualmente as pessoas sabem exatamente o que precisam, então, os dados proporcionam um direcionamento mais assertivo, afinal, é possível saber exatamente o que está sendo buscado e recebido.
+
+Outra característica é a busca por conexões entre marcas e pessoas. As pessoas buscam contatos mais humanizados e o branding tem esse viés.
+
+A Angélica, por exemplo, realizou uma coleta de dados para entender as demandas e necessidades do seu público. Nesse processo é importante entendermos que estamos lidando com pessoas e elas têm sentimentos. Portanto, é muito necessário que esse procedimento seja algo seguro, só assim o usuário terá uma boa experiência com a marca.
+
+Atualmente existe a Lei Geral de Proteção de Dados Pessoais justamente para que as empresas se responsabilizem pela forma como utilizam os dados.
+
+Outro fator importante é a objetividade. É preciso definir quais tipos de dados vão ajudar a alcançar o objetivo do negócio, se isso não for feito provavelmente não será possível ter resultados consistentes.
+
+A coleta de dados também precisa ser eficiente. Quando a Angélica pesquisou sobre seu público encontrou muitas informações que não eram relevantes para o seu objetivo atual. Embora, eles possam ser relevantes futuramente, é preciso ter uma comunicação eficiente, isso significa o levantamento de informações relevantes para aquele momento e o conhecimento real sobre essas pessoas, é isso que proporciona a conexão com o público.
+
+Quando a Angélica abriu a Saborilar estava muito preocupada, já que há muitas pessoas no mesmo nicho. Porém, é justamente o oposto, afinal:
+
+Não é o que você vende e sim como você vende.
+
+O branding é uma estratégia que faz toda diferença na percepção das pessoas em relação ao que está sendo oferecido. É esse tipo de gestão que faz com que seja possível se diferenciar no mercado e ser preferencia para os consumidores.
+
+É preciso entender que branding é a gestão estratégica da marca, porém, ele vem de "brand", que significa marca. Então, se você não tem uma marca estruturada, não tem como elaborar estratégias assertivas e eficazes de branding. Isso significa que o primeiro passo é estruturar a marca para depois começar fazer sua gestão.
+
+## Marketing 5.0
+
+Como aprendemos, o marketing tem passado por diversas fases desde a sua concepção até os dias atuais. Atualmente, estamos vivenciando o Marketing 5.0 que é uma abordagem do marketing que se concentra no desenvolvimento de estratégias de comunicação e marketing que sejam orientadas para o propósito, ou seja, para a criação de valor para as pessoas consumidoras e para a sociedade como um todo.
+
+Essa abordagem parte da premissa de que as empresas precisam ir além do lucro e se comprometerem com a solução de problemas sociais e ambientais, gerando um impacto positivo na vida das pessoas e do planeta.
+
+O Marketing 5.0 valoriza a personalização da experiência da pessoa consumidora, a utilização de tecnologias avançadas e a humanização das marcas. Busca criar relacionamentos duradouros e significativos entre as empresas e pessoas consumidoras, baseados na confiança e na empatia.
+
+Em resumo, o Marketing 5.0 é uma abordagem que visa criar valor para as pessoas e para o planeta, buscando equilibrar os objetivos de lucro das empresas visando o bem-estar da sociedade. Só que até alcançarmos essa fase, passamos por outras que vamos acompanhar a seguir:
+
+Marketing 1.0: Essa é a fase inicial do marketing, que teve início na Revolução Industrial, quando a oferta de produtos começou a superar a demanda. O foco do marketing 1.0 era a produção em massa, a venda de produtos em grande quantidade e a conquista de novos clientes. Os consumidores eram vistos como seres racionais, que tomavam decisões baseadas no custo-benefício.
+
+Marketing 2.0: Com o passar do tempo, a concorrência ficou mais acirrada e quem estava consumindo começou a ter mais poder de escolha. Nesse contexto, o marketing 2.0 surgiu com o objetivo de entender melhor as necessidades das pessoas consumidoras e construir relacionamentos mais sólidos com elas. Nessa fase, as empresas passaram a focar em satisfazer a demanda e construir uma marca forte.
+
+Marketing 3.0: Essa fase marca uma mudança de paradigma no marketing, que passou a ser mais orientado para valores e propósitos. As empresas começaram a se preocupar mais com a responsabilidade social e a sustentabilidade, buscando formas de contribuir para a sociedade. O marketing 3.0 coloca o ser humano no centro das estratégias de marketing e busca criar um impacto positivo na sociedade.
+
+Marketing 4.0: Com a popularização da internet e das mídias sociais, o marketing passou por mais uma revolução. O marketing 4.0 é caracterizado pela personalização das mensagens e pela interação em tempo real com os consumidores. As empresas passaram a utilizar dados e tecnologias para entender melhor as necessidades das pessoas consumidoras e oferecer soluções mais personalizadas.
+
+É importante entendermos cada uma dessas fases no processo de evolução do marketing, pois todas tiveram um papel fundamental em relação aos avanços no relacionamento com nosso público, nos proporcionando uma perspectiva cada vez mais completa em relação ao tipo de conduta que enquanto marca devemos ter para nos diferenciar das demais.
+
+Compreender o conceito de marcas sinônimo e sua importância no branding;
+Identificar como as empresas podem trabalhar para criar marcas sinônimo por meio da criação de uma identidade de marca consistente e engajamento com a comunidade;
+Analisar as necessidades e desejos do público-alvo, criando estratégias de branding a partir do consumer insights;
+Utilizar tecnologias e ferramentas de marketing para criar experiências personalizadas e relevantes para o público, gerando maior engajamento e lealdade de clientes a partir do conceito de marketing 5.0.
+
+### Naming da Saborilar
+Quando Angélica começou seu negócio, a Saborilar não tinha esse nome. Na verdade, era "Angélica Marmitas", uma junção do seu nome com o produto que ela vende. Além disso, ela trouxe folhagens para a sua identidade visual para remeter à comida natural e saudável:
+
+Como escolher um nome?
+No processo naming, é importante escolher um nome que seja impactante, que chame a atenção das pessoas. Consequentemente, esse será um nome memorável. Também é importante ser um nome acessível para que nosso público saiba pronunciá-lo e se sinta confortável em divulgá-lo.
+
+Passos do naming
+Identificar os valores da marca
+Nesse processo de construção, é fundamental que os valores da nossa marca sejam muito claros. Sem isso, não conseguimos buscar formas de traduzir nossa ideia para as pessoas ao escolher o nosso nome.
+
+Brainstorming
+Com isso, realizamos o brainstorming, a "chuva de ideias" em que levantamos todas as possibilidades de nomes que conseguirmos e que façam sentido para nós
+
+Filtrar e testar o resultado
+Ao longo do processo, surgirão muitas ideias e sugestões de nomes - então, ao final, devemos filtrá-las e testar com o nosso público o que está mais alinhado às suas expectativas. Sem o teste, podemos perceber futuramente que o nome escolhido não é tão aceito quanto o esperado.
+
+O nome de uma empresa tem a capacidade de criar e até mesmo reforçar uma imagem da marca na mente do público. Portanto, a criação do nome é uma etapa de extrema importância do processo de construção da nossa marca.
+
+Vale a pena dedicar um tempo exclusivo ao naming, estudando bastante o mercado e a maneira com que as marcas do nosso nicho estão se nomeando, para coletar referências.
+
+Conforme aprendemos, naming é um processo criativo e estratégico que envolve a criação de um nome único, memorável e distintivo para uma marca, produto ou serviço, sendo essencial para as empresas, pois o nome escolhido reforça a imagem criada, impacta a mente das pessoas consumidoras, assim como é um fator crucial no sucesso da mesma.
+
+Toda essa importância se dá pois essa escolha está totalmente associada aos valores da marca, à sua personalidade, seus objetivos de negócios, entre outros. Ou seja, é necessário que o nome reflita a essência da marca e ressoe com o público-alvo. Não à toa que como acompanhamos, muitas marcas pensaram no processo de forma muito cuidadosa e até mesmo alteraram seu nome ao longo do tempo.
+
+Pensando nisso, separamos para você alguns exemplos de empresas que passaram pelo processo de naming:
+
+1. Google: O nome Google foi criado por Larry Page e Sergey Brin, os fundadores da empresa, como uma variação da palavra "googol", que representa o número 1 seguido de 100 zeros. O nome foi escolhido para simbolizar a missão da empresa de organizar e tornar acessível todo o vasto conhecimento disponível na internet.
+
+2. Coca-Cola: O nome Coca-Cola foi criado pelo inventor da bebida, John Pemberton, em 1886. Ele escolheu o nome porque gostava do som das letras "C" e "K" juntas e também porque as duas palavras começam com a mesma letra, o que torna mais fácil de lembrar.
+
+3. Airbnb: O nome Airbnb foi criado por um dos fundadores da empresa, Joe Gebbia, em 2007. Ele escolheu o nome porque inicialmente a empresa se concentrava em oferecer acomodações em colchões infláveis em um apartamento de São Francisco, então o nome "Air Bed and Breakfast" (Cama de Ar e Café da Manhã) foi criado. O nome foi posteriormente encurtado para Airbnb.
+
+4. Apple: O nome Apple foi escolhido por Steve Jobs e Steve Wozniak, os fundadores da empresa, porque gostavam do som da palavra e também porque o nome representava algo simples e fácil de lembrar.
+
+5. Nike: O nome Nike foi escolhido em 1971, quando a empresa era conhecida como Blue Ribbon Sports. O nome foi inspirado na deusa grega da vitória, Nike, e escolhido porque os fundadores da empresa acreditavam que representava uma imagem forte e inspiradora.
+
+Como podemos perceber, cada uma dessas empresas escolheu um nome que representava sua marca de maneira única e memorável, o que ajudou a impulsionar seu sucesso.
+
