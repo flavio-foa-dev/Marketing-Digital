@@ -206,3 +206,101 @@ Pensando nisso, separamos para você alguns exemplos de empresas que passaram pe
 
 Como podemos perceber, cada uma dessas empresas escolheu um nome que representava sua marca de maneira única e memorável, o que ajudou a impulsionar seu sucesso.
 
+O que te move? Você já parou para pensar nisso? E se fizéssemos essa mesma pergunta para as marcas? O que move cada marca?
+
+A Dove, por exemplo, tem como propósito melhorar a confiança das mulheres em todo o mundo. Já o objetivo da Nubank é empoderar pessoas, fazendo com que elas tenham total autonomia sobre a vida financeira.
+
+Mas, de que maneira conseguimos materializar todos os nossos valores e desejos enquanto marca? É aí que entra o DNA.
+
+O DNA da marca revela sua essência e suas características, sendo composto pelos seguintes elementos:
+
+Trajetória: o que fez com que chegássemos onde estamos atualmente;
+Valores: o que determinamos como prioridade em relação à mensagem que queremos transmitir;
+Comunicação: a forma com que nos comunicamos com o nosso público.
+É importante entender que um DNA bem definido gera credibilidade e identificação. Se as pessoas sabem o que esperar da nossa marca e o que compõe o nosso DNA, fica muito mais fácil de elas acreditarem na nossa conduta e, principalmente, que elas se identifiquem conosco.
+
+A Angélica, por exemplo, tem 45 anos e é mãe solo de dois filhos já adultos. Ela é formada em administração e sempre sonhou em ter seu próprio negócio.
+
+Além disso, ela perdeu 30 quilos com reeducação alimentar, transformando sua relação com a comida para melhorar a sua saúde. Ou seja, ela construiu o DNA da Saborilar pautando-se na sua própria vida:
+
+Transformar a relação das pessoas com os alimentos de forma saudável, saborosa e acolhedora.
+
+Lewis Cass diz que "as pessoas podem duvidar do que você diz, mas elas acreditarão no que você faz". É exatamente isso que devemos considerar ao construir nosso DNA. Ele é transmitido mais pela experiência que oferecemos às pessoas do que pelo que falamos para esse público.
+
+Além disso, devemos tentar sempre ser muito fiéis ao nosso DNA, porque ele é o reflexo dos nossos ideais, e levar isso para a comunicação e relação com o nosso público.
+
+### O DNA da sua marca diz muito sobre ela
+
+O DNA da marca é uma estratégia de marketing que visa definir a essência da marca e a sua identidade visual. Essa estratégia ajuda a criar uma imagem forte e consistente da marca, que seja facilmente reconhecida pelos consumidores.
+
+A empresa Green Kitchen, por exemplo, é uma marca de alimentos saudáveis e sustentáveis, que produz e vende opções de refeições práticas, saudáveis e com ingredientes orgânicos. A empresa busca incentivar um estilo de vida mais equilibrado e responsável com o meio ambiente, acreditando ser possível alinhar saúde com sustentabilidade.
+
+Vamos conhecer um pouco sobre ela:
+
+1) Busca promover a transparência e a responsabilidade em toda a cadeia produtiva, desde a seleção dos ingredientes até a produção e a venda dos produtos, que são bastante diversificados. Procura trabalhar apenas com ingredientes orgânicos e de produtores locais, além de utilizar embalagens biodegradáveis e recicláveis.
+
+2) Produz e vende refeições prontas, sucos naturais e snacks saudáveis em diversas lojas físicas, com foco em oferecer uma experiência gastronômica de qualidade, saudável e sustentável. Os produtos da empresa são desenvolvidos com ingredientes orgânicos e com um processo produtivo responsável e ético.
+
+3) Com o tempo, conseguiu reduzir os custos de produção dos produtos tendo fabricação própria.
+
+A transparência e a responsabilidade em toda a cadeia produtiva.
+
+
+Promover a transparência e a responsabilidade em toda a cadeia produtiva, desde a seleção dos ingredientes até a produção e a venda dos produtos é um diferencial importante da marca, que busca aliar saúde e sustentabilidade, sendo coerente com sua essência.
+
+Roy O. Disney disse a seguinte frase:
+
+"Quando os valores são claros, as decisões são fáceis."
+
+Já parou para pensar em como a Disney consegue tocar o lado emocional das pessoas a partir da experiência que ela oferece?
+
+Seja quem visitou ou não o mundo mágico, todos sabem que seu objetivo é tornar as pessoas felizes.
+
+Para isso, a Disney trabalha com três elementos muito importantes:
+
+Criatividade
+Sonhos
+Imaginação
+Toda experiência oferecida está pautada nesses elementos e esse é seu grande diferencial. A Disney preserva a magia nos detalhes, ou seja, tudo é pensado. Desde a pipoca preparada próxima ao horário de abertura do parque para os visitantes sentirem o cheiro e se lembrem da infância até as boas-vindas ao parque. Isso faz com que seu propósito seja evidente para todos.
+
+Golden Circle
+Quando estamos estabelecendo o propósito da nossa marca é preciso que ele seja compreensível principalmente para nós mesmos, só assim poderemos repassá-lo para o público.
+
+O Golden Circle é uma metodologia que ajuda empresas e líderes a encontrarem o seu propósito e gerarem impacto.
+
+Representação do Golden Circle. Há três círculos sobrepostos nos tamanhos pequeno, médio e grande, ambos na cor preta. O menor, localizado no meio, está escrito, em vermelho, "Why", dele sai uma seta vermelha que aponta para a tardução "Por quê". Em seguida, o círculo "How", que significa "como" em português. Logo após o círculo maior "what" que significa "o que"
+Ele funciona a partir de três perguntas centrais:
+
+Por quê
+Se refere ao motivo do propósito, ou seja, o que nos move.
+
+Como
+É como conseguiremos estabelecer estratégias e ações para alcançar o sucesso utilizando o proposito definido no "Por quê".
+
+O que
+É a consolidação, a estrutura do produto ou serviço que estamos entregando para as pessoas.
+
+Respondendo essas três perguntas conseguimos entender nosso propósito e reproduzi-lo de forma efetica para o público.
+
+Lembre-se que:
+
+"As pessoas não compram o que você faz, mas o porquê do que faz"
+Simon Sinek
+
+1) Comece com o porquê:
+
+O primeiro passo é definir o propósito da sua empresa. Pergunte-se: "Por que fazemos o que fazemos? Qual é a nossa missão? Qual é a nossa visão?". O objetivo é encontrar uma razão para existir que seja maior do que apenas ganhar dinheiro. Isso deve ser inspirador e motivador para os funcionários e clientes.
+
+2) Descubra o como:
+
+Em seguida, determine como a empresa alcança o seu propósito. Pergunte-se: "Como fazemos o que fazemos? Qual é a nossa abordagem única para resolver os problemas dos clientes?". Isso deve ser algo que diferencie a empresa da concorrência e mostre de que forma a empresa se diferencia no mercado.
+
+3) Defina o quê:
+
+Por fim, determine o que a empresa oferece. Pergunte-se: "O que fazemos? Quais são os nossos produtos e serviços?". Isso deve estar alinhado com o propósito e a abordagem da empresa.
+
+Lembre-se de que o Golden Circle não é apenas uma fórmula a ser seguida, mas sim um processo contínuo de reflexão e aprimoramento. Ele ajuda a empresa a criar uma estratégia clara e coerente que pode ser comunicada com clareza para clientes e pessoas colaboradoras, o que também ajuda a orientar as decisões de negócios.
+
+Escolher um nome memorável que seja capaz de transmitir os valores e personalidade da marca, além de ajudar na diferenciação da concorrência;
+Estruturar um DNA que possa comunicar de forma consistente e eficaz sua identidade de marca em todos os pontos de contato com o público;
+Utilizar a metodologia Golden Circle para criar uma estratégia de branding que seja autêntica, inspiradora e relevante para o público, alinhada com a visão e valores da empresa.
