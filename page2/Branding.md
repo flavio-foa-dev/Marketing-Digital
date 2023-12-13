@@ -304,3 +304,59 @@ Lembre-se de que o Golden Circle não é apenas uma fórmula a ser seguida, mas 
 Escolher um nome memorável que seja capaz de transmitir os valores e personalidade da marca, além de ajudar na diferenciação da concorrência;
 Estruturar um DNA que possa comunicar de forma consistente e eficaz sua identidade de marca em todos os pontos de contato com o público;
 Utilizar a metodologia Golden Circle para criar uma estratégia de branding que seja autêntica, inspiradora e relevante para o público, alinhada com a visão e valores da empresa.
+
+## Brand Persona
+
+É por isso que a Brand Persona é tão importante. Por meio dessa estratégia é possível realizar a estruturação da linguagem da marca. Ela tem como foco representar a marca por meio de um personagem ou tom de voz com características relacionadas à sua essência.
+
+É a personificação dos valores da marca.
+
+Benefícios
+Há diversos benefícios em ter uma Brand Persona. Um deles é a definição de um posicionamento. Quando não sabemos o que esperar, ficamos inseguros em relação ao tipo de atendimento que receberemos, afinal, não existe um padrão.
+
+Ao unificar a comunicação enquanto marca, nosso público é educado a saber que determinada comunicação irá partir da empresa e essa vivência será igual sempre. Além disso, esse tipo de estratégia gera um relacionamento real e solido com o público.
+
+Quando conhecemos alguém descobrimos a forma e as características de como ela se comunica. É exatamente esse tipo de experiência que oferecemos ao trabalhar com a Brand Persona.
+
+É importante lembrar que essa não é uma estratégia permanente, pode existir tanto a estruturação de personagens como também focar no tom de voz que está sendo utilizado na comunicação com o público.
+
+A Lu, personagem da Magazine Luiza, por exemplo, tem uma grande proximidade com o público e está sempre antenada sobre as tendências. Essa foi uma decisão da marca em criar um personagem que pudesse ser utilizado para representar a marca na comunicação com o público.
+
+Já a Netflix tem um tom de voz divertido voltado para o entretenimento, algo característico da marca. Quando as pessoas entram em contato e interagem com ela, sabem exatamente o tipo de atendimento que receberão, já que sua comunicação é muito bem estruturada e definida.
+
+Importante lembrar que brand persona não é buyer persona!
+
+Buyer persona- Se refere ao nosso cliente ideal, ou seja, a representação da pessoa que irá comprar produtos da nossa marca.
+Brand persona - É a representação da nossa marca.
+Na época da copa, a Angélica percebeu que a expressão "Tá sentindo cheirinho de hexa?" estava em alta. Então, no dia que o Brasil foi eliminado ela fez a seguinte publicação no Instagram:
+
+Arte digital. Em um fundo de cor clara, no topo, lê-se em letras vermelhas "Tá sentindo o cheirinho?". Logo abaixo a frase "Não é do hexa do Brasil, mas pode ser o seu com essas marmitas campeãs!". Abaixo, no canto esquerdo, os dizeres "Vem que hoje é dia de saborilar!". No canto direito fotos de seis marmitas com comidas diferentes, alguns garfos e uma sacola
+Nesse exemplo, Angélica usou uma tendência utilizando o tom de voz da Saborilar.
+
+Para definir a Brand Persona da Saborilar ela utilizou a seguinte estrutura:
+
+Minha cara: Mulher de 35 anos
+
+Minha voz: Dinâmica, divertida e solícita
+
+Como falo: Olá, minha gente! Bora saborilar? Por aqui a semana já começou!
+
+Esse é um esboço que pode ser utilizado para definir o tipo de comunicação que será feita com o público.
+
+Além dessas informações, também é importante definir o tipo de aproximação que a marca deseja ter com o público. Nesse caso, a Saborilar é informal e acessível, por isso, prefere manter uma proximidade maior e mais pessoal com seu público.
+
+Para a construção da sua Brand Persona é necessário que você entenda exatamente quais são os valores da marca e a partir disso tente reproduzir essas características na comunicação da empresa.
+
+De acordo com nossos estudos, aprendemos que a brand persona é uma representação fictícia da personalidade e características da marca, usada para criar conexão com o público-alvo.
+
+No caso do Ponto Frio, uma das principais redes de varejo do Brasil, a persona criada para as suas redes sociais, principalmente para o Twitter foi o Pin, que é uma representação animada de um pinguim que personifica os valores da marca, como jovialidade, simplicidade e tecnologia. O seu nome é uma referência a um dos termos em inglês para "alfinete", que é uma referência ao botão "Pin It", usado para marcar algo interessante na internet.
+
+O impacto do Pin no Twitter tem sido bastante positivo para o Ponto Frio. Ao criar uma persona divertida e simpática, a marca consegue se aproximar dos seus seguidores e criar uma conexão emocional com o público. Além disso, o uso de um personagem animado permite que a marca crie conteúdo mais lúdico e descontraído, o que é bastante apreciado pelo público jovem que frequenta a plataforma.
+
+Ilustração animada do pinguim Pin e a seguinte frase: Desculpa, amigo. Não sabia que sua esposa era casada.
+
+Fonte: Twitter do Ponto Frio @pontofrio
+
+O Pin também tem sido usado para promover produtos e campanhas do Ponto Frio, aumentando a efetividade das ações de marketing da marca. Com o seu carisma e personalidade cativante, o Pin consegue gerar mais engajamento e interação dos seguidores, o que é muito importante em uma plataforma como o Twitter.
+
+Em resumo, o Pin é uma brand persona bem-sucedida do Ponto Frio, que tem impactado positivamente a presença da marca no Twitter. Ao criar um personagem animado e cativante, a marca consegue se aproximar do seu público e criar uma conexão emocional que gera resultados positivos em termos de engajamento e conversão.
