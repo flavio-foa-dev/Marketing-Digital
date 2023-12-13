@@ -360,3 +360,323 @@ Fonte: Twitter do Ponto Frio @pontofrio
 O Pin também tem sido usado para promover produtos e campanhas do Ponto Frio, aumentando a efetividade das ações de marketing da marca. Com o seu carisma e personalidade cativante, o Pin consegue gerar mais engajamento e interação dos seguidores, o que é muito importante em uma plataforma como o Twitter.
 
 Em resumo, o Pin é uma brand persona bem-sucedida do Ponto Frio, que tem impactado positivamente a presença da marca no Twitter. Ao criar um personagem animado e cativante, a marca consegue se aproximar do seu público e criar uma conexão emocional que gera resultados positivos em termos de engajamento e conversão.
+
+Mídias sociais são ambientes de relacionamento, não canais de vendas.
+
+Oferecer ofertas e propagandas o tempo todo é cansativo, ninguém gosta de se relacionar com marcas assim.
+
+Essa estratégia já funcionou um dia, porém, atualmente as pessoas estão mais exigentes e não querem uma relação superficial de compra e venda e sim um relacionamento mais profundo.
+
+É por isso que muitas marcas tem optado por uma comunicação voltada para diversão e informação.
+
+Branded Content
+É nesse momento que o Branded Content, o conteúdo de marca, é aplicado.
+
+O objetivo dessa estratégia é criar conteúdos que possuem relação direta com o mundo no qual a marca está inserida. Além de impactar a audiência e gerar conexão.
+
+Existem três pilares fundamentais para que essa estratégia funcione. São eles:
+
+Entretenimento
+Informação
+Publicidade
+Quando falamos sobre o conteúdo da marca, ele precisa ser relevante, ou seja, fazer diferença na vida do público. Ele também precisa ser de qualidade para gerar credibilidade à marca e assim aumentar seu engajamento.
+
+Netflix
+
+A Netflix, por exemplo, tem uma série chamada "Orange Is the New Black", no português "Laranja é o novo preto". Ela conta como é a vida penitenciária feminina, o relacionamento entre essas mulheres, como elas se comunicam e como isso reflete no mundo real.
+
+Durante a exibição da série, a Netflix publicou um artigo no The New York Times intitulado "Women Inmates: Why the Male Model Doesn’t Work", na tradução “Mulheres presas: Por que o modelo masculino não funciona”, que fala sobre o motivo pelo qual o modelo carcerário masculino não funciona devido às diferentes necessidades femininas.
+
+Esse material, que traz diversas informações e dados relevantes sobre o tema, não possui nenhum tipo de mensão à série. Somente após o fim do texto encontramos um pequeno banner sobre o lançamento da segunda temporada.
+
+O artigo foi desenvolvido com o foco na importância da informação e não no produto da Netflix. É exatamente assim que funciona o Branded Content, ele tem um objetivo focado em trazer informações que realmente impactam as pessoas.
+
+Claro que essa também é uma forma sutil da empresa fazer a divulgação da série, porém não é o objetivo principal do conteúdo.
+
+Red Bull
+
+Outro exemplo de Branded Content é a missão Red Bull Stratos. Esse projeto fez com que o paraquedista Felix Baumgartner se tornasse a primeira pessoa a quebrar a barreira do som em queda livre.
+
+Ao longo da transmissão ao vivo não foi exibido em nenhum momento os produtos da Red Bull. Porém, o logo da marca estava presente em todas as vertentes do vídeo, como nos uniformes e equipamentos.
+
+Dessa forma, as pessoas estavam tendo contato com a marca, porém sem receber nenhum estímulo de compra.
+
+Como provavelmente as pessoas se sentiram agraciadas por acompanhar essa experiência extremamente relevante para a pesquisa científica, consequentemente criaram uma imagem positiva da marca.
+
+Branded Content não é Marketing de Conteúdo!
+
+O Marketing de Conteúdo é voltado para a jornada do consumidor, ou seja, está sempre educando o público sobre o mercado e a marca.
+
+Já o Branded Content tem o propósito de nutrir o público com informações e gerar entretenimento de forma relevante, além disso, nesse modelo a pessoa consumidora está no centro da estratégia.
+
+Por isso é muito importante fazer algumas perguntas, como:
+
+O que vai ser relevante para meu público?
+O que as pessoas querem saber?
+O que vai gerar impacto na vida das pessoas?
+Pensando na construção dessa estratégia, a Angélica decidiu criar um blog com o objetivo de falar sobre as propriedades dos alimentos.
+
+Para isso, ela fez uma parceria com a nutricionista que a ajudou na reeducação alimentar. Nesse material, não havia, por exemplo, os valores da marmita da Saborilar, nem nada vinculado a parte comercial.
+
+É claro que o conteúdo continha referências a Saborilar, como sua logo. Mas, o foco não eram as vendas e sim a orientação do seu público para o consumo de alimentos saudáveis visando ajudá-los.
+
+Além de fazer toda diferença, essa é uma forma de se aproximar do público, facilitando a associação positiva que ele irá criar com sua marca.
+
+Pensando na estratégia de branded content, que tem como objetivo criar conteúdos valiosos e relevantes para o público-alvo, a Angélica criou um blog no qual trazia informações sobre as diferentes propriedades dos alimentos, assim como receitas saudáveis, o que passou a informar e engajar muito mais o público da Saborilar.
+
+Isso aconteceu com a marca de alimentos naturais Fresh & Fit, que também estava querendo utilizar uma estratégia de branded content para educar seu público sobre a importância de uma alimentação saudável, como também sobre a conexão entre alimentação e bem-estar.
+Uma série de podcasts educacionais sobre nutrição e saúde.
+
+Essa estratégia está alinhada com a proposta da marca que quer educar o público sobre a conexão entre alimentação saudável e bem-estar de uma forma que irá informar, também entreter as pessoas, que é a base do branded content. Esse formato de podcast, ainda permite que a marca tenha mais tempo e profundidade para discutir assuntos relevantes para o seu público, criando assim uma conexão mais forte e autêntica.
+
+Imagine que você recebeu um convite para uma ilha com direito a um acompanhante.
+
+Nesse caso, o convidado precisaria cumprir um requisito: ser uma pessoa que você considere governante, ou seja, alguém com espírito de líder. Você saberia quem chamar?
+
+E se fosse uma pessoa sábia, que sabe estruturar uma estratégia e pensar de forma mais racional. Consegue pensar em alguém?
+
+Ou então, uma pessoa exploradora, que encara qualquer desafio.
+
+Com a definição dessas características, provavelmente você logo imaginou as pessoas que se encaixava em cada uma delas.
+
+E por que isso acontece?
+
+Temos a definição de modelos ideais da nossa mente que são os arquétipos, ou seja, essa capacidade de definir características para cada tipo de pessoa e reconhecê-las como um modelo.
+
+Arquétipos
+Esse conceito de arquétipo foi criado pelo psicólogo Carl Gustav Jung, que teve como objetivo definir os diferentes tipos de personalidades.
+
+Esse conceito foi traduzido para o marketing pela Carol S. Pearson e Margaret Mark, que desejavam construir marcas extraordinárias a partir do poder dos arquétipos.
+
+12 Arquétipos
+Existem 12 arquétipos que podem ser utilizados nas marcas de acordo com sua essência e valores.
+
+Arquétipo das marcas formado por três círculos, um dentro do outro, como camadas. Eles estão repartidos igualmente em quatro partes. A primeira parte, localizada no canto superior esquerdo, tem a cor rosa, na qual a primeira camada, identificamos o número "1" seguido do texto "independência e realização". No segundo círculo, que forma a segunda camada, lemos "Compreensão", "Liberdade" e "Segurança". Essas mesmas palavras, na terceira camada, estão conectadas, seguindo a mesma ordem, por "Sábio", "Explorador" e "Inocente". A segunda repartição do círculo, localizada no canto superior direito, tem a cor verde. A primeira camada, que é a parte do círculo que se encontra no centro, é identificada pelo número "2", nela lemos "risco e excelência". Na segunda camada as palavras "Libertação", "Poder" e "Excelência". Elas estão conectadas, no terceiro círculo, pelas palavras "Rebelde", "Mago" e "Herói". A terceira repartição do círculo, localizada no canto inferior esquerdo, tem a cor azul e é identificada pelo número "3". Dentro dele lemos "Comunidade e prazer". Na segunda camada as palavras "Comunidade", "Prazer" e "Intimidade". Elas estão conectadas, no terceiro círculo, pelas palavras "Cara Comum", "Bobo da corte" e "Amante". A quarta repartição do círculo, localizada no canto inferior direito, possui a cor vermelha e é identificada pelo número 4. No círculo central lemos "Estabilidade e controle". No segundo círculo as palavras "Ajuda", "Inovação" e "Controle". Conectadas, pelo terceiro círculo, as palavras "Cuidador", "Criador" e "Governante".Fonte: FriendsLab
+
+Sábio
+O sábio é quem simboliza a sabedoria e a busca pelo conhecimento. Uma marca muito conhecida por isso é a TEDx que tem o proposito de disseminar conhecimento e gerar trocas importantes a partir de conferências.
+
+Explorador
+Tem grande vontade de descobrir o mundo e suas novidades. Uma marca que traz essa essência e está sempre em busca por novos desafios é o Jeep.
+
+Inocente
+O inocente acredita na felicidade acima de tudo. Uma marca com esse arquétipo é a Coca-Cola que traz esse o conceito de acreditar em momentos felizes e de que eles devem ser compartilhados com quem amamos.
+
+Rebelde
+É inquieto e pronto para quebrar barreiras do cotidiano. A Harley-Davidson traz essas características nos seus meios de comunicação que também faz parte da essência da marca.
+
+Mago
+Busca transformar a perspectiva da realidade e senso comum. A Red Bull é um grande exemplo, afinal, é uma marca que pensa fora da caixa e promove experiências inéditas.
+
+Herói
+É dinâmico, ágil e forte. Pronto para encarar qualquer desafio. Quem possui esse arquétipo é a Nike, que está sempre incentivando as pessoas a estarem prontas e dispostas a encararem seus desafios.
+
+Cuidador
+Não mede esforços em seu zelo. Repleto de generosidade. Um exemplo é a Johnson & Johnson, a marca frisa a questão dos cuidados e de zelar pelo que você ama. É uma personalidade que não mede esforços em relação ao cuidado e traz uma sensação de carinho.
+
+Criador
+É engenhoso, cheio de criatividade e ama inventar soluções para o mundo. A Lego é focada em trazer exatamente essas características, de acreditar em suas inovações.
+
+Governante
+É poderoso e mantém o controle. A Rolex possui esse arquétipo e traz uma diferenciação em suas comunicações reforçando o quanto sua marca é poderosa.
+
+Cara comum
+É especialista em se conectar com outras pessoas, quer pertencer. Quem passa essa imagem é a Havaianas, ela gera essa sensação de normalidade, afinal, todo mundo usa.
+
+Bobo da corte
+Tem um espírito extrovertido e ri de si mesmo. A M&M traz muito essas características, seus conteúdos são voltados ao lúdico e o entretenimento. Todas as campanhas, comunicações e conduta tem um viés divertido.
+
+Amante
+Apresenta sensualidade, ousadia e intimidade a nível de personalização. Quem tem esse arquétipo é a Dior.
+
+Storytelling
+É essencial entendermos a importância da definição dos arquétipos para a aplicação do storytelling, uma estratégia de contação de histórias que proporciona conexão com o público.
+
+É por meio da história que as pessoas se identificam e consequentemente se tornam dispostas a entender o que temos a oferecer, já que isso gera identificação.
+
+Sabendo o tipo de arquétipo que a marca se identifica, conseguimos manter a conduta em relação ao storytelling que está sendo transmitido para o público.
+
+No caso da Saborilar, a Angélica decidiu que seu arquétipo será o Cara Comum, aquele que está conectado com muitas pessoas e que tem vontade de pertencimento, além de gerar acolhimento enquanto marca.
+
+Aprendemos nesta aula sobre a importância dos arquétipos de marca, ferramentas de branding que buscam identificar e comunicar a personalidade e os valores de uma marca por meio de características humanas universais. Cada arquétipo representa um padrão comportamental facilmente reconhecido pela maioria das pessoas, como o herói, o cuidador, o explorador, entre outros.
+
+As marcas trabalham com seus arquétipos, incorporando suas características em suas estratégias, mas, principalmente, alinhando com sua essência.
+
+Vamos conhecer algumas ações criadas por elas:
+
+Harley-Davidson e o seu arquétipo rebelde
+
+Em sua campanha "Screw It, Let's Ride" (Que se dane, vamos andar), a marca enfatizou a liberdade e a ousadia associadas à experiência de pilotar uma motocicleta Harley-Davidson. A campanha apresentava uma série de vídeos e imagens de motociclistas realizando manobras arriscadas, acompanhadas por uma trilha sonora de rock n' roll.
+
+A mensagem da campanha era clara: a Harley-Davidson não é apenas uma marca de motocicletas, mas sim um estilo de vida associado à rebeldia e à coragem de desafiar as convenções. A campanha ajudou a reforçar a imagem da marca como um símbolo de liberdade, individualidade e a atrair novos clientes que se identificam com esse arquétipo.
+
+Rolex e o seu arquétipo governante
+
+Ao lançar a campanha "A crown for every achievement" (Uma coroa para cada conquista), com anúncios que apresentam imagens de celebridades e personalidades em momentos de realização e sucesso, a mensagem que estava sendo passada é a de que, assim como as pessoas bem-sucedidas, uma Rolex é um objeto de prestígio e status, que simboliza a conquista de objetivos elevados. Ou seja, o objetivo era associar a marca a momentos de conquista e sucesso, destacando a importância de uma Rolex como símbolo de excelência e reconhecimento.
+
+Com essa campanha, a Rolex reforça sua identidade como uma marca de luxo e alta qualidade, estabelece uma conexão emocional com seu público-alvo, que valoriza a excelência e o reconhecimento. Além disso, também ajuda a fortalecer a imagem da marca como um símbolo de sucesso e realização pessoal.
+
+M&M's e o seu arquétipo bobo da corte
+
+Ao lançar a campanha "Melts in your mouth, not in your hands" (Derrete na sua boca, não nas suas mãos), a marca buscou se associar a momentos de diversão e aventura, destacando a conveniência e a praticidade dos chocolates M&M's.
+
+Os anúncios da campanha apresentam imagens de pessoas em situações divertidas e descontraídas, como em festas, acampamentos e viagens, acompanhadas pelo slogan "M&M's: o chocolate que não derrete na sua mão". A mensagem da campanha é que, ao escolher os chocolates M&M's, as pessoas podem se concentrar na diversão e nas experiências, sem se preocupar com sujeira ou bagunça.
+
+Com essa campanha, a M&M's reforça sua identidade como uma marca divertida e descontraída e estabelece uma conexão emocional com seu público-alvo, que valoriza a espontaneidade e a diversão. A campanha também ajuda a fortalecer a imagem da marca como um produto prático e conveniente, que pode ser levado para qualquer lugar e consumido em qualquer ocasião.
+
+Então de forma geral, para utilizar os arquétipos de marca, é necessário seguir alguns passos:
+
+1) Identificar o arquétipo da sua marca: Para isso, é importante entender a personalidade e os valores da sua marca, bem como o público-alvo e a imagem que a empresa deseja transmitir.
+
+2) Conhecer os traços do arquétipo: Cada arquétipo tem características específicas que podem ser utilizadas para fortalecer a imagem da marca, como valores, crenças, comportamentos e emoções associados.
+
+3) Alinhar a comunicação da marca com o arquétipo: A comunicação da marca deve refletir os traços do arquétipo escolhido para estabelecer uma conexão emocional com o público-alvo. Isso pode ser feito por meio da linguagem, das cores, das imagens e dos valores transmitidos nos anúncios e na identidade visual da marca.
+
+4) Criar experiências que reforcem o arquétipo: A marca deve criar experiências que reforcem o arquétipo escolhido, seja por meio de eventos, promoções, conteúdos ou outros tipos de interações com o público. Essas experiências devem ser autênticas e coerentes com a personalidade da marca.
+
+5) Ajustar o arquétipo conforme as mudanças na marca: À medida que a marca evolui e se adapta às mudanças no mercado e na sociedade, pode ser necessário ajustar o arquétipo escolhido. Isso pode ser feito por meio de uma redefinição da estratégia de marca e da comunicação, para manter a coerência e a relevância da imagem da marca.
+
+Ao utilizar os arquétipos de marca de forma consistente e estratégica, você fortalece a imagem da sua marca, estabelece uma conexão emocional com seu público-alvo e se diferencia da concorrência.
+
+Entender o conceito de brand persona e como criar uma representação que corresponda aos valores, características e tom de voz da marca e que seja relevante e atraente para o público-alvo;
+Utilizar o branded content para a criação de conteúdo que ajude a fortalecer a imagem e reputação da marca, que crie um relacionamento mais próximo com o público e que aumente o engajamento e a fidelização dos clientes;
+Escolher o arquétipo que representa os valores e características da marca que estejam alinhados com a sua essência.
+
+Cadê a jujuba? Foi essa pergunta que um senhor, cliente de uma loja em que eu estava, fez. Ele estava perguntando sobre a jujuba que fica em cima da bancada.
+
+O vendedor achou a pergunta engraçada, achando curioso que o senhor tenha reparado que as jujubas não estavam ali. Ele explicou: estavam repondo as jujubas no recipiente para devolvê-lo à bancada.
+
+Apesar de o vendedor ter achado a situação engraçada, observa-se que esse é um reflexo da experiência que o cliente esperava ter quando entrasse na loja.
+
+O que é Brand Experience?
+Vamos nos aprofundar na ideia de experiência. Por exemplo: quando entramos na Farm, uma loja de roupas com bastante estilo carioca, percebemos nitidamente um aroma distinto. As lojas da Farm têm esse cheiro muito específico, que reconhecemos facilmente.
+
+Além do aroma, a música que toca nas lojas, a estrutura e decoração conferem uma atmosfera própria da Farm. Tudo isso faz parte da experiência que as pessoas clientes da marca estão acostumadas a ter.
+
+Chamamos essa ideia de brand experience, ou "experiência da marca". Esse é um fator extremamente importante para a relação das pessoas com a nossa marca pois, com isso, nós:
+
+Aumentamos a interação com o público
+Reforçamos o nosso posicionamento na mente das pessoas consumidoras
+Quando as pessoas já sabem o que esperar da nossa marca, existe uma expectativa positiva sobre nós. Então, em todas as vezes que as pessoas buscam contato com a nossa marca, apenas reafirmamos que essa associação positiva faz sentido. Então:
+
+Aumentamos a fidelização
+Brand experience não tem a ver apenas com o contato do dia a dia com o nosso público ou as experiências no geral. Devemos sempre buscar encantar o nosso público em todas as nossas ações.
+
+Marcas grandes como Nike, Disney ou Coca-Cola, são a referência na mente das pessoas, independentemente das possibilidades que as pessoas encontram pelo caminho. Isso porque essas marcas se preocupam com a experiência oferecida até nos mínimos detalhes, que podem passar despercebidos para outras marcas.
+
+Marcas alcançam essa posição de referência justamente pelo diferencial de se atentar aos detalhes, criando algo surpreendente e encantador para as pessoas consumidoras. Assim, elas oferecem uma experiência que se destaca em relação às outras e o público as têm como primeira opção.
+
+A Brand Experience da Oficina do Brigadeiro
+Caio é dono da Oficina do Brigadeiro e pensou em algo diferente para vender o seu produto, o que ele relata no vídeo "VENDER BRIGADEIRO NA RUA | 07 DICAS DE ABORDAGEM" (Canal do YouTube Caio no Mundo, 2021):
+
+No trecho do vídeo reproduzido pela instrutora, Caio, um homem branco de barba grisalha grande, chapéu coco e camiseta verde, está na porta de uma loja de sapatos e diz:
+
+O que eu faço? Eu entro nas lojas, chego com essa caixa de ferramentas na mão e falo "E aí, bom dia! Eu sou da manutenção e vim aqui para o conserto". Espero a pessoa responder "Conserto de...?" e digo "Eu vim aqui para consertar o seu dia!".
+
+Durante sua fala, passam diferentes trechos dele entrando nas lojas e falando com vendedores e clientes sobre a Oficina do Brigadeiro. Ele mostra seus doces na caixa de ferramentas azul e pergunta quantos gramas de felicidade as pessoas querem. Clientes riem e interajem com Caio. Ele volta a narrar:
+
+Sabe por que ideia da caixa de ferramentas funciona? É simples. Está escrito "vendedor" na minha testa, as pessoas simplesmente me ouvem. Posso chegar em qualquer lugar que vou ter a atenção das pessoas. Eu não sou um vendedor de brigadeiro, eu conserto o dia das pessoas! Entende a diferença?
+
+Como vimos, Caio deixou muito claro o seu propósito: consertar o dia das pessoas.
+
+Brigadeiro é um produto relativamente barato e comum, mas as pessoas são surpreendidas pela caixa de ferramentas cheia de brigadeiros e a abordagem de Caio. Essa experiência encantadora pode até fazer com que a pessoa, inicialmente desinteressada, acabe comprando o brigadeiro!
+
+Isso acontece porque, conforme já conversamos, o emocional é determinante na tomada de decisão das pessoas. Tudo isso é brand experience!
+
+Estratégias
+Definir nossos objetivos e entender nossos recursos Grandes marcas possuem recursos diferentes de marcas em estágio inicial. O importante é entender quais são e se temos os recursos necessários para alcançar nossos próprios objetivos.
+
+Personalizar as experiências
+
+Existem muitas ideias bacanas ao nosso redor que podem ser adaptadas para a nossa marca, mas o ideal é seguir uma linha mais personalizada. Afinal, queremos que a nossa marca seja reconhecida pelo público em qualquer lugar, a qualquer momento, sem se perder dentre as diversas possibilidades do mercado.
+
+Pensar “fora da caixa”
+Não podemos ter medo de ousar, pois as pessoas gostam de ser surpreendidas. Se essa ousadia for direcionada a uma experiência positiva, o público se sentirá cada vez mais engajado com a nossa marca! Assim, com certeza, o resultado será positivo também.
+
+Frases de motivação
+A Angélica entende muito bem as dificuldades de seguir uma alimentação saudável, pois ela mesma passou pela reeducação alimentar e muitas pessoas procuravam por ela para se alimentar melhor.
+
+Então, ela pensou que seria interessante mandar uma frase de motivação por dia para as pessoas que compram suas marmitas. Às vezes ela pegava pensamentos de autores conhecidos ou, então, ela mesma parava para escrever uma frase para alegrar o dia das pessoas. Por exemplo:
+
+Em um dia difícil, lembre-se do seu mais belo sorriso e acredite que tudo vai melhorar!
+
+Podemos pensar que isso é só um detalhe. Mas são, justamente, os detalhes que fazem diferença na relação que estabelecemos com o nosso público.
+
+Sobremesas da Saborilar
+Pensando no que mais poderia fazer para surpreender as pessoas, Angélica decidiu que, às sextas-feiras - dia do descanso, começando o ritmo do final de semana -, ela poderia oferecer uma sobremesa surpresa. Ela criou uma rima para divulgar essa novidade:
+
+S de sextou...
+S de sobremesa...
+S de saborilar...
+Hoje é S de SURPRESA!
+Conclusões
+Quando pensamos em brand experience, temos de responder algumas perguntas:
+
+De que maneira é possível elevar a qualidade da experiência oferecida para clientes?
+Como já conversamos, temos que entender quais são os nossos recursos, as demandas do nosso público e o que fará com que, de fato, nossa marca tenha um impacto para as pessoas.
+
+O que verdadeiramente faz a sua marca ser única?
+Qual o seu diferencial? Do que você quer que as pessoas se lembrem quando a sua marca for mencionada?
+
+É esse tipo de pergunta que devemos nos fazer para sempre tentar trabalhar as experiências que oferecemos da melhor maneira possível.
+
+A partir do momento em que entramos numa constante de oferecer experiências positivas que surpreendem as pessoas, elas se sentirão muito agraciadas e, automaticamente, nos ajudarão no engajamento da marca. É isso que buscamos para manter um relacionamento duradouro com o nosso público.
+
+De acordo com o que aprendemos, brand experience se refere ao conjunto de experiências que uma pessoa consumidora tem com uma marca, incluindo todas as interações que tem com a empresa, desde o primeiro contato até a pós-venda. O objetivo da brand experience é criar uma conexão emocional entre a pessoa consumidora e a marca, a fim de gerar fidelização e engajamento.
+
+Um exemplo super interessante de brand experience é o Sprite Shower, que é uma ação de marketing promovida pela marca de refrigerante Sprite que busca oferecer uma experiência única e agradável aos seus consumidores. Essa iniciativa consiste em instalar chuveiros em locais públicos, como praças e praias, e convidar as pessoas a tomarem um banho refrescante de Sprite.
+
+Fonte: https://www.clubedecriacao.com.br/pecas/sprite-shower-2/
+
+A importância da Sprite Shower é criar uma experiência de marca positiva e memorável para o público. Através dessa iniciativa, a marca busca estabelecer uma conexão emocional com os consumidores, associando a marca a momentos de diversão e descontração, assim como ao frescor que faz parte da sua essência.
+
+Os objetivos da ação Sprite Shower são diversos. Em primeiro lugar, a iniciativa busca aumentar a visibilidade da marca Sprite e fortalecer seu posicionamento no nicho no qual está inserida. Além disso, a ação busca gerar engajamento e interação dos consumidores com a marca, incentivando-os a compartilharem suas experiências nas redes sociais e a se tornarem embaixadores dela.
+
+Por fim, o resultado da Sprite Shower é uma associação positiva e duradoura da marca Sprite com momentos inesquecíveis, contribuindo para a fidelização de consumidores como para a conquista de novos, que são atraídos por essa proposta diferenciada
+
+Se eu te perguntar quanto você pagaria numa camisa polo branca, qual seria o valor? E se eu te falasse que a camisa é da Lacoste? Será que sua percepção do valor mudaria? Você teria maior disposição para pagar mais caro?
+
+E se eu te falasse que um smartphone comum custa por volta de dez mil reais, você compraria? Se eu te falasse que o smartphone é da Apple, você pensaria novamente?
+
+Uma vez, vi a seguinte frase na foto de perfil do WhatsApp de um rapaz prestador de serviços:
+
+Trabalhe para que teus clientes te procurem por ser o melhor, e não o mais barato.
+
+É exatamente disso que se trata a brand equity: a representação do valor gerado pelo branding. Ou seja, o valor que a marca agrega ao produto, um dos ativos intangíveis mais importantes de uma marca.
+
+Quando compramos um aparelho da Apple, não compramos apenas o aparelho: estamos comprando status e exclusividade. É esse tipo de valor que buscamos com uma boa estratégia de brand equity.
+
+Conseguimos isso por meio do nosso posicionamento, o lugar que a marca ocupa na mente das pessoas consumidoras. Quando conseguimos agregar valor ao nosso público a ponto de este não questionar o preço cobrado pelos produtos, ocupamos um lugar de referência.
+
+A Apple muda e inova seus produtos sempre, carregando seu público junto dela - clientes fiéis, pessoas advogadas da marca, que não questionam a qualidade do que é oferecido e, muito menos, o valor cobrado.
+
+Preço versus Valor: quanto mais agregamos valor para as pessoas consumidoras, menos nossos preços e ações serão questionados.
+
+Estratégias
+Para alcançar uma brand equity realmente consolidada, é importante:
+
+Conhecer seu mercado
+Não adianta focar apenas na nossa realidade sem tentar perceber o que está acontecendo ao redor. Até porque, como já conversamos, as pessoas estão sendo surpreendidas por outras marcas a todo momento.
+
+Então, se queremos nos tornar uma marca memorável que realmente faz a diferença na vida das pessoas consumidoras, a ponto de elas enxergarem um valor maior para a nossa marca, é importante entender a concorrência.
+
+Oferecer programas de exclusividade
+As pessoas estão sempre buscando o sentimento de pertencimento, além de quererem se sentir especiais. Quando oferecemos programas de exclusividade, geramos esses sentimentos nelas; afinal, são benefícios que as diferenciam das outras pessoas. Com isso, temos a reciprocidade e conquistamos preferência das pessoas.
+
+Estabelecer o valor agregado
+Se temos como objetivo construir a nossa marca de forma sólida, em que o tipo de valor que agregamos para as pessoas consumidoras faz total diferença na tomada de decisão, é importante entender quais são as estratégias possíveis para estabelecer esse valor. E isso começa de dentro para fora!
+
+Se não nos colocamos no mercado de forma sólida, não temos essa percepção de valor por parte do público ao entrar em contato com a nossa marca.
+
+###  Construindo o Brand equity
+Uma marca com um forte brand equity é capaz de gerar mais confiança e credibilidade junto aos consumidores, além de ter maior facilidade em expandir seus negócios, lançar novos produtos e serviços no mercado. Apresentam também maior capacidade de resistir a crises e de se recuperar de eventuais problemas ou escândalos, graças à sua reputação consolidada e à lealdade dos consumidores.
+
+A marca de roupas Cool Wear trabalha com um público que sabe que seus produtos são feitos com alta qualidade e acabamentos impecáveis. É uma marca que está em ascensão e quer construir seu brand equity de forma sólida e consistente, focando na exclusividade.
+
+Qual estratégia seria interessante para a marca Cool Wear construir seu Brand Equity?
+
+Oferecer um atendimento personalizado e tornar os lançamentos um momento exclusivo com benefícios para quem participa deles.
+
+
+Esse tipo de estratégia cria uma conexão emocional com seus clientes, o que é fundamental para construir uma relação de confiança e fidelidade. Além disso, ajuda a criar um senso de exclusividade em torno da marca e de seus produtos, gerando uma sensação de status e prestígio, o que consequentemente contribui para aumentar o brand equity da marca, ou seja, o valor percebido pelo consumidor em relação a ela e a seus produtos.
+
