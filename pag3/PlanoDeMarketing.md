@@ -97,5 +97,19 @@ Temporal
 
 É preciso definir uma data de início e cumprimento da meta SMART, nesse caso o prazo é de dois meses.
 
+Como conferimos no vídeo, a meta SMART é um acrônimo usado para definir critérios para estabelecer objetivos eficazes e alcançáveis. Cada letra representa um aspecto que um objetivo deve ter:
 
+Específico (Specific): A meta deve ser clara e bem definida, abordando exatamente o que deseja alcançar. Ela deve responder às perguntas "O quê?", "Quem?" e "Por quê?".
+
+Mensurável (Measurable): A meta deve ser quantificável e ter critérios de avaliação definidos. Isso permite que você acompanhe o progresso e determine se a meta foi alcançada ou não.
+
+Atingível (Attainable): A meta deve ser desafiadora, mas também realista e alcançável. É importante considerar recursos, tempo, habilidades e outras limitações para garantir que a meta possa ser alcançada de forma viável.
+
+Relevante (Relevant): A meta deve ser relevante e alinhada aos objetivos gerais e às prioridades da pessoa ou da organização. Ela deve ter importância e contribuir para o progresso ou sucesso de algo maior.
+
+Temporal (Time-bound): A meta deve ter um prazo definido para sua realização. Estabelecer uma data limite ajuda a manter o foco, criar um senso de urgência e evitar procrastinação.
+
+Ao estabelecer metas SMART, você aumenta suas chances de sucesso, pois elas são mais específicas, mensuráveis e orientadas para a ação. Além disso, as metas SMART fornecem clareza e direção, ajudando a manter o foco e a motivação ao longo do caminho.
+
+Aceita um desafio? Defina cada letra da meta SMART abaixo:
 
