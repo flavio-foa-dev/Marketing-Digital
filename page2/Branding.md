@@ -680,3 +680,44 @@ Oferecer um atendimento personalizado e tornar os lançamentos um momento exclus
 
 Esse tipo de estratégia cria uma conexão emocional com seus clientes, o que é fundamental para construir uma relação de confiança e fidelidade. Além disso, ajuda a criar um senso de exclusividade em torno da marca e de seus produtos, gerando uma sensação de status e prestígio, o que consequentemente contribui para aumentar o brand equity da marca, ou seja, o valor percebido pelo consumidor em relação a ela e a seus produtos.
 
+
+Acompanhando a trajetória da Angélica com a Saborilar entendemos a importância do branding, assim como o impacto das estratégias na tomada de decisão que estimulam a preferência por uma marca ao invés de outra.
+
+Isso faz parte do Neuromarketing, o estudo que faz a junção da neurociência com marketing e que visa entender profundamente os desejos e necessidades das pessoas consumidoras.
+
+Quando falamos sobre tomada de decisão, também precisamos entender que: as pessoas agem pela emoção e justificam pela razão.
+
+Então, se você trata clientes como números, você mantém uma relação racional e para sua marca conquistar fãs o lado emocional precisa prevalecer. É por meio da construção de um relacionamento mais próximo que os consumidores desenvolvem conexão e preferência pela marca.
+
+Aprendemos nesse curso que para manter um relacionamento saudável através do branding é necessário mapear pontos de contato e que eles sejam efetivos.
+
+Podemos trabalhar com diversos canais de comunicação, porém é muito importante que os clientes sejam acolhidos e tenham uma experiência de qualidade em todos, caso não isso trará problemas para a imagem do seu negócio.
+
+No Neuromarketing também há a teoria de que nosso cérebro está sempre em busca do prazer e se esquivando da dor. Isso significa que se a marca virar sinônimo de problemas ou desconforto, as pessoas vão evitá-la. Sendo assim, também é necessário criar associações positivas referentes ao seu negócio.
+
+Por meio das estratégias, pautadas na essência e valores da marca, é possível criar experiências diversas que ajudam a manter um relacionamento saudável com o público, além de potencializar o impacto da marca na mente das pessoas. Com as condutas alinhadas geramos credibilidade ao público.
+
+Marcas criam experiências que as pessoas comentam, mas marcas memoráveis criam experiências que as pessoas amam.
+
+É exatamente esse amor e respeito construídos por meio do relacionamento que fazem com que a marca se torne uma prioridade.
+
+O neuromarketing e o branding estão intimamente relacionados. Enquanto o branding se concentra na construção e gestão da marca, o neuromarketing se concentra na compreensão do comportamento da pessoa consumidora e na forma como o cérebro humano responde aos estímulos de marketing. Combinar o branding e o neuromarketing pode ser uma ótima maneira de criar uma marca memorável e diferenciada.
+
+Separamos algumas estratégias que estão alinhadas com muitos assuntos que abordamos e que podem ajudar a alcançar seus objetivos:
+
+Desenvolva uma identidade visual forte: a identidade visual de uma marca, incluindo cores, formas, tipografia e logotipo, é uma das primeiras coisas que as pessoas notam e é uma das coisas mais importantes para tornar uma marca memorável. Com base nas pesquisas do neuromarketing, escolha cores que ativam emoções positivas no cérebro, use formas simples, limpas e um logotipo distintivo, facilmente reconhecível.
+
+Conte histórias relevantes e emocionantes: como seres humanos, somos atraídos por histórias emocionantes e envolventes. Usando técnicas como storytelling, conte histórias que conectem sua marca com emoções positivas e valores que ressoem com seu público-alvo.
+
+Seja consistente em todas as interações com clientes: para que sua marca seja memorável, é importante que ela seja reconhecida e percebida de forma consistente em todas as interações com o cliente. Isso inclui tudo, desde a embalagem do produto até uma comunicação unificada, assim como o atendimento prestado.
+
+Crie experiências positivas: as experiências positivas são uma maneira poderosa da sua marca construir uma conexão emocional com seu público e torná-la memorável. Recorra ao neuromarketing para criar experiências que ativam emoções positivas no cérebro.
+
+Use a personalização para se conectar com seus clientes: os clientes são mais propensos a lembrar e se conectar com marcas que se comunicam de forma personalizada com eles. Utilize o neuromarketing para criar campanhas de marketing personalizadas, como e-mails com o nome do destinatário e recomendações de produtos com base em suas compras anteriores.
+
+Ao combinar o neuromarketing com o branding, as marcas podem criar uma imagem forte e memorável, que se conecta com as emoções e valores do público-alvo e é percebida de forma consistente e coerente em todos os pontos de contato com o consumidor. Isso pode levar a uma maior fidelidade de clientes, ao criar uma imagem mais forte e memorável na mente do público, aumentando assim a sua percepção positiva e o seu valor.
+
+Compreender o conceito de brand experience e criar experiências relevantes e únicas para o público, em todos os pontos de contato com a marca, desde a compra até o pós-venda;
+Construir e fortalecer o brand equity, aumentando a percepção de valor do produto ou serviço aos olhos do público;
+Elaborar estratégias para tornar sua marca memorável para que ela se destaque em meio à concorrência e seja a preferência das pessoas consumidoras.
+
