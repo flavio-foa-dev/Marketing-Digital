@@ -111,6 +111,5 @@ Temporal (Time-bound): A meta deve ter um prazo definido para sua realização. 
 
 Ao estabelecer metas SMART, você aumenta suas chances de sucesso, pois elas são mais específicas, mensuráveis e orientadas para a ação. Além disso, as metas SMART fornecem clareza e direção, ajudando a manter o foco e a motivação ao longo do caminho.
 
-Aceita um desafio? Defina cada letra da meta SMART abaixo:
-Aceita um desafio? Defina cada letra da meta SMART abaixo:Aceita um desafio? Defina cada letra da meta SMART abaixo:
+Aceita um desafio? Defina cada letra da meta SMART
 
