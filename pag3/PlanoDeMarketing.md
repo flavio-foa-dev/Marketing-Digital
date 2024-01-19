@@ -216,5 +216,97 @@ Pouca variedade de produtos;
 Entrega apenas em regiões locais.
 Conseguimos identificar necessidades e dores dos nossos clientes, que serão muito importantes para traçar um plano de ação de Marketing Digital!
 
+O Funil de vendas é uma estratégia para capturar e reter o cliente na sua empresa. Em cada etapa do funil de vendas é empregada uma estratégia conforme o nível de decisão do consumidor em relação à compra.
+
+A jornada do consumidor, também conhecida como jornada de compra, refere-se ao processo que uma pessoa consumidora passa desde o momento em que identifica uma necessidade até a conclusão da compra de um produto ou serviço. É um modelo que descreve as etapas pelas quais um consumidor típico passa ao interagir com uma empresa.
+
+Embora as jornadas possam variar dependendo do setor e do tipo de produto ou serviço, entender as necessidades do consumidor na jornada de compra é fundamental para construir relacionamentos sólidos com clientes.
+As pesquisas de feedback são uma estratégia de marketing digital que pretendem principalmente identificar as necessidades da pessoa consumidora. Por meio dessas pesquisas, as empresas podem coletar feedback direto dos consumidores, compreender suas preferências, opiniões e necessidades específicas. Essas informações são valiosas para ajustar estratégias do planejamento de marketing digital, desenvolver produtos ou serviços mais alinhados às demandas do público-alvo e melhorar a experiência do cliente como um todo.
+
+# Neuromarketing
+
+Neuromarketing é uma parte do marketing ligada à ciência que estuda o comportamento do consumidor, utilizando de base as reações fisiológicas que ocorrem no cérebro. Você sabia que até a organização de produtos no mercado pode nos levar a comprar um produto?
+
+O neuromarketing desempenha um papel importante no planejamento de marketing, pois oferece insights e ajuda a compreender como as pessoas tomam decisões de compra. Ele combina os princípios da neurociência, psicologia e marketing para analisar as respostas cerebrais e emocionais dos consumidores diante de estímulos de marketing.
+
+Ao utilizar técnicas e ferramentas do neuromarketing durante o planejamento de marketing, as empresas podem:
+
+Compreender as motivações e desejos dos consumidores: O neuromarketing ajuda a identificar as emoções, os impulsos e os fatores inconscientes que influenciam as decisões de compra. Isso permite que as empresas entendam melhor o que motiva os consumidores e como atender às suas necessidades.
+
+Otimizar o design e a comunicação de produtos: Ao analisar as respostas cerebrais dos consumidores, o neuromarketing pode fornecer informações sobre o design de produtos e embalagens que são visualmente atraentes e emocionalmente envolventes. Além disso, ajuda a desenvolver mensagens de marketing eficazes e atraentes.
+
+Personalizar a experiência do consumidor: O neuromarketing pode ajudar a personalizar a experiência do consumidor, adaptando-a às preferências individuais. Isso pode ser feito por meio da segmentação de mercado com base em características demográficas, comportamentais ou emocionais.
+
+Melhorar a eficácia da publicidade: Com o neuromarketing, é possível medir e avaliar a eficácia das campanhas publicitárias por meio de técnicas como o rastreamento ocular, a ressonância magnética funcional e a eletroencefalografia. Isso ajuda a identificar quais elementos da publicidade são mais cativantes e aprimorar futuras estratégias.
+
+Tomar decisões embasadas em dados: O neuromarketing fornece dados objetivos e científicos sobre as preferências dos consumidores, o que permite às empresas tomar decisões de marketing mais embasadas. Ao invés de depender apenas de pesquisas de mercado tradicionais, as empresas podem utilizar dados neurocientíficos para embasar suas estratégias.
+
+Interessante, né? O neuromarketing, combinado a outras metodologias de pesquisa de mercado e insights qualitativos, será um grande aliado para obter uma compreensão completa e holística do comportamento do consumidor. Caso queira saber mais, confira este curso sobre Neuromarketing, que aborda estratégias e ações que são elaboradas através do estudo da mente.
+
+ DISCUTIR NO FÓRUM
+
+# Matriz SWOT
+
+
+S Forca
+w fraqueza
+o oportunidade
+A ameacas
+
+
+forca
+qualidade dos produtos
+site responsivo
+experiencia de compra
+
+
+fraquesa
+entrega limitadas
+site nao intuitivo
+pouca variedades de produtos
+
+oportunidades
+entrega para tgodo brasil
+al demanda no mercado pet
+parceiria com aacoes sociais de pauta animal
+
+ameacas
+expansao de franquias de concorrentes
+mudanca de comportamento do consumidor
+
+Anteriormente, voltamos o olhar para o nosso cliente. Agora, examinaremos as características do mercado externo. Para isso, utilizaremos o método da Matriz SWOT, uma ferramenta gerencial que examina o ambiente interno e externo de uma empresa.
+
+Assim como a metodologia SMART, cada letra da siga SWOT remete a um parâmetro de mapeamento referente à nossa empresa — no caso, a Cão Petshop. São elas:
+
+S - Stregths, forças da empresa
+W - Weaknesses, fraquezas da empresa
+O - Opportunities, oportunidades
+T - Threats, ameaças
+Forças
+O primeiro ponto a ser analisado em uma Matriz SWOT são as forças da empresa. As forças da Cão Petshop são as seguintes:
+
+Qualidade dos produtos, o que foi identificado e analisado a partir do formulário de feedback respondido pelos clientes da Cão Petshop.
+Site responsivo para mobile, ou seja, o site funciona bem em qualquer dispositivo móvel, como celulares e tablets.
+Experiência de compra, amplamente avaliada como ponto positivo pelos clientes da loja por oferecer um serviço humanizado e atencioso.
+Fraquezas
+Podemos identificar as seguintes fraquezas da Cão Petshop:
+
+Entregas limitadas
+Site não intuitivo
+Pouca variedade de produtos
+Esses apontamentos também foram concluídos a partir do formulário de feedback divulgado pela Cão Petshop. Além disso, também pudemos tirar conclusões semelhantes no benchmarking, quando identificamos as diferenças entre a Cão Petshop e suas concorrentes.
+
+Oportunidades
+Esse parâmetro é referente ao mercado externo. Por exemplo, as oportunidades de crescimento da Cão Petshop são:
+
+Possibilidade de entregas para todo o país.
+Alta demanda no mercado pet.
+Parceria com ações sociais de pauta animal, que pode ajudar a empresa a criar um senso de comunidade e atrair clientes que se interessam por realizar compras que impactam a sociedade.
+Ameaças
+Essas ameaças não são ameaças à empresa, mas fatores do mercado externo sobre os quais a Cão Petshop não tem controle, como:
+
+Expansão de franquias concorrentes no Brasil, pois não podemos simplesmente impedir a inauguração de novas lojas.
+Mudança do comportamento da pessoa consumidora, à qual a empresa precisa adaptar suas estratégias.
+Finalizamos a nossa Matriz SWOT! No material de apoio desta aula, será deixado um documento para você preencher a Matriz SWOT da sua própria empresa, ou mesmo a da Cão Petshop, com base em toda a pesquisa que realizamos ao longo do curso.
 
 
