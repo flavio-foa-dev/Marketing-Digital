@@ -513,3 +513,148 @@ Queremos que você use sua criatividade e, principalmente, coloque em prática t
 Realizar estratégias de automação, branding e marketing de conteúdo para manter a empresa atenta as tendências, necessidades dos clientes e demandas do mercado;
 Utilizar estratégias de marketing digital como inbound marketing, SEO e tráfego pago para aumentar a visibilidade, atrair tráfego qualificado e melhorar a interação com os clientes;
 Elaborar um cronograma de marketing digital, com OKRs, resultados-chave, prazos e responsáveis visando direcionar recursos de maneira mais eficiente e eficaz, maximizando os resultados obtidos.
+
+# Recursos e orcamento
+
+Recursos e orçamentos
+Vamos analisar os problemas relacionados a empresa Cão Petshop:
+
+Equipe pequena;
+Pouco orçamento.
+Te daremos algumas dicas de como lidar com essa realidade.
+
+Primeira dica
+Defina ações e estratégias que estejam dentro da realidade atual da sua empresa.
+
+Não adianta querer que seu primeiro plano de marketing atinga 300% de faturamento ou aumente em 500% o tráfego do seu site. São metas muito grandes.
+
+É importante, sim, definir metas audaciosas, mas também precisamos pensar em quais metas vamos conseguir cumprir. Dessa maneira, o planejamento de marketing digital vai ser fiel a sua realidade e totalmente possível de ser conquistado.
+
+Segunda dica
+Procure alternativas de ferramentas gratuitas e/ou de baixo custo.
+
+Uma maneira de conseguir otimizar o orçamento do planejamento de marketing digital, é procurar ferramentas que sejam gratuitas. Ao longo do curso, conhecemos o Google Forms e o Google como ferramenta de pesquisa.
+
+É essencial que essas ferramentas se adéquem a realidade. Por exemplo, existem diversas ferramentas de gestão de tempo e equipe, como Trello ou Asana.
+
+As ferramentas escolhidas no planejamento de marketing digital tem de ir de acordo com as metas que querem ser alcançadas e, principalmente, tem que fazer sentido para toda a equipe que vai utilizá-la.
+
+Afinal, quando a equipe não concorda com a ferramenta implantada, vai ser mais difícil que todas as pessoas a utilizem e que todos os dados estejam centrados em uma única ferramenta.
+
+Terceira dica
+Procure aprender mais a partir das estratégias que a empresa precisa suprir.
+
+O que isso significa? A equipe do Cão Petshop tem apenas duas pessoas funcionárias em seu departamento de marketing. Com esse cenário, a empresa pode oferecer diversos treinamentos e capacitações para essas pessoas. Assim, vão conseguir cumprir suas metas e o objeto do plano de marketing.
+
+Por exemplo, o curso sobre social listening ou branding que vão de acordo com o que a Cão Petshop precisa no planejamento que fizemos nesse curso.
+
+Ressaltamos que, uma pessoa que acumula muitas funções, não vai fazer todas corretamente.
+
+É claro que no primeiro momento da empresa, você pessoa empreendedora pode acumular muitas funções até que sua empresa cresça. É fundamental que essas tarefas sejam redistribuídas de maneira que a equipe funcione de forma saudável e colaborativa à medida que a empresa aumente.
+
+
+Agora queremos trazer exemplos práticos de marcas que são muito reconhecidas no mercado e que desempenharam muito bem o seu planejamento de marketing digital.
+
+Case Cola-Cola
+Vamos trazer cases de sucesso da Cola-Cola que é uma marca já consolidada no mercado há muitos anos e que sempre muda sua estratégia de marketing digital.
+
+Posicionamento da marca
+Um aspecto muito forte na estratégia de marketing da Cola-Cola é o posicionamento da marca. Um dos slogans (frases) vinculados as suas campanhas é: "Real Magic" (magia real).
+
+Acompanhado desse slogan, são sempre veiculados consumidores em momentos felizes e reais.
+
+Anúncios com fotos de pessoas abraçadas e sorridentes com uma garrafa de Cola-Cola na mão. Sobreposto a imagem, a marca da Cola-Cola e o slogan "Real magic".
+Não parece que as fotos não foram tiradas em estúdio ou montadas. São momentos que vieram voluntariamente.
+
+Isso impacta positivamente na pessoa consumidora, pois se sente representada pela marca e sente que sua realidade está compatível com o posicionamento da Cola-Cola.
+
+Outra campanha muito importante para a Cola-Cola foi quando as latas vieram com a frase "Essa Cola-Cola é Fanta. E daí?". Nessa campanha, a marca se posicionava contra atitudes homofóbicas.
+
+Lata vermelha de refrigerante com a inscrição "Essa Cola-Cola é Fanta. E daí?".
+Isso também impacta positivamente, porque mostra que a marca se importa com a inclusão e com as causas que seu público apoia.
+
+Ainda falando sobre posicionamento de marca, houve uma campanha em que as latas do refrigerante vieram com nomes.
+
+Anúncio com três latas vermelhas de refrigerante com a inscrição "Compartilhe uma Cola-Cola com" em alfabeto latino seguida de diferentes nomes em braille.
+Contudo, não vieram somente com a escrita típica do alfabeto latino. Muitas delas, vieram com nomes em braille para que pessoas cegas se sentissem representadas e tivessem latinhas com seus nomes.
+
+Esse posicionamento de marca amplia o alcance do público-alvo e posiciona a marca com causas que o público está engajado.
+
+Conexão
+A estratégia de marketing digital da Cola-Cola para as latas com os nomes criaram uma conexão tão grande que o público começa a colecionar latas com seu próprio nome ou de parentes e amigos. Dessa maneira, crescem as vendas do produto.
+
+Anúncio com cinco latas vermelhas de refrigerante com a inscrição "Bebendo uma Cola-Cola com" seguida de diferentes nomes.
+Mas, no momento da compra, as pessoas não pensam nas vendas, mas, sim, na representatividade.
+
+Ainda no aspecto da conexão, você pode já conhecer sobre a tradicional carreata da Cola-Cola com caminhões vermelhos iluminados, trazendo figuras que remetem ao natal.
+
+Foto de carreata noturna composta de caminhões vermelhos com a logo da Cola-Cola iluminados com tiras de led. Na carroceria, enfeites de árvore de natal, neve e pisca-pisca.
+Essa carreata é tradicional e é feita no final do ano, passando por diversas cidades. As pessoas se aglomeram nas ruas e param para apreciar o desfile. É um momento de emoção e conexão que faz com que a pessoa consumidora esteja muito próxima da marca.
+
+Storytelling
+Além disso, outra estratégia conectada ao natal e muito forte da Cola-Cola é o storytelling.
+
+O papai noel usa roupa vermelha e a cor predominante da Cola-Cola também é o vermelho. Porém, não é só por esse motivo que essa figura natalina está associada a marca.
+
+O storytelling do papai noel consumir Cola-Cola no natal começou desde o fundamento da empresa. Foi uma história que teve conexão com o público e que foi realmente adotada pelas pessoas.
+
+Por isso, consciente ou inconscientemente, o papai noel virou uma figura ligada a Cola-Cola. Como é um feriado e uma tradição anual, a marca sempre vai estar presente na memória na pessoa consumidora.
+
+Case Petz
+Agora, vamos pegar o case real de uma empresa que analisamos no planejamento de marketing: a Petz.
+
+Recentemente, a Petz mudou a estratégia de marketing da empresa. Os próprios donos falaram ao público que agora a Petz vai ter produtos exclusivos e que o marketing vai ser focado na experiência de cliente.
+
+Por que uma empresa tão consolidada resolveu mudar o seu planejamento de marketing digital? Três fatores cruciais para essa mudança são:
+
+Experiência do cliente;
+Conexão com a marca;
+Oferta e demanda.
+A pessoa consumidora está cada vez mais preocupada com a experiência de compra. Ela não se importa apenas com o produto, mas também como foi adquirido e quais foram os benefícios ao comprar aquele produto.
+
+Outro motivo para a mudança de estratégia, pode ter sido a conexão com a marca. A exclusividade de produtos cria uma conexão grande que faz com que as pessoas procurem a marca Petz.
+
+Por fim, o principal objetivo de uma mudança do planejamento e estratégias de marketing é a oferta e demanda. A partir do momento que a pessoa consumidora precisa de mais produtos do que a empresa não oferece e outras empresas desse segmento crescem no mercado, é preciso que a marca se reinvente.
+
+Vamos deixar essa notícia na atividade "Para Saber Mais" como material de apoio para que você possa analisar quais foram os objetivos e o porquê da Petz mudar sua estratégia.
+
+O que não fazer
+1. Não mensurar os resultados com periodicidade
+A primeira prática que não é recomendada ao fazer o planejamento é não mensurar os resultados com periodicidade. Afinal, toda meta ou OKR que formulamos tem um prazo de validade.
+
+No caso do cliente Cão Petshop, o prazo do planejamento é de dois meses. Se ao final desse período a empresa não mensurar quais foram os resultados atingidos e não atingidos, não haverá como saber qual estratégia está funcionando e quais processos possuem gatilhos que fazem com que as metas não sejam atingidas.
+
+É fundamental que essa revisão do planejamento ocorra com periodicidade. Caso contrário, faremos planejamentos recorrentes que não surtem efeito.
+
+Apenas a partir de dados e números, vamos conseguir saber se a empresa está crescendo e se nossos recursos, orçamentos e produtividade são direcionados para um caminho de sucesso.
+
+2. Esquecer do digital
+Outra prática que não deve ser feita no planejamento é esquecer do digital. Estamos em uma era em que as tecnologias crescem e evoluem. Assim, grande parte das pessoas consumidoras estão no digital ou consomem ao menos uma rede social.
+
+Isso significa que empresas que não se adaptam a era digital e não fazem um planejamento para se inserir no mundo da internet, estão falindo ou não conseguem mais conversar com o público-alvo.
+
+O digital é uma grande ferramenta de conversão e, consequentemente, faz com que a empresa cresça. Devemos sempre aprender e pesquisar mais sobre o que o mercado utiliza de novo no marketing digital.
+
+3. Ignorar o que o público e o mercado querem
+Por fim, não recomendamos ignorar o que o público e o mercado querem.
+
+Lembre-se do que discutimos sobre oferta e a demanda. Não adianta a sua empresa não inovar nos produtos e não ouvir quais são as necessidades atuais da clientela e continuar fazendo sempre o mesmo.
+
+Afinal, o digital muda a todo momento e surgem mais inovações. Inclusive, o comportamento de consumidores passa por eras do marketing digital. Atualmente, a pessoa consumidora se importa com a experiência que vai ter ao comprar o seu produto. Não podemos ignorar o que a pessoa consumidora precisa e deseja.
+
+Além disso, é necessário fazer pesquisas de feedback para adaptar nosso serviço de forma a atender melhor o público-alvo. Afinal, sem consumidores a empresa não cresce.
+
+Não adiante ter um planejamento de marketing digital que não conversa com o público, pois as pessoas não vão se identificar e os esforços da equipe vão ter sido em vão.
+
+Conclusão
+Nesse vídeo, demos dicas do que não fazer. Com isso, chegamos ao final desse curso.
+
+Agora, vamos te dar algumas dicas para intensificar o seu aprendizado para usufruir do conhecimento passado a partir da teoria.
+
+A primeira dica é utilizar o fórum. A Yasmin e a equipe estão sempre empenhadas a responder dúvidas que possam surgir sobre o conteúdo para você aproveitar o curso da melhor maneira possível.
+
+Também faça as atividades propostas para fixar o conteúdo e aprender na prática. Assim, você vai saber fazer o que foi aprendido, além de conseguir sair com um planejamento de marketing em mãos.
+
+Investigar cenários específicos para a implementação do plano de marketing, como baixo orçamento e equipe pequena e, através deles, aprender a traçar objetivos para definir ações;
+Analisar cases de sucesso, como a Coca-cola e obter insights importantes para orientar o planejamento de marketing;
+Avaliar as estratégias com periodicidade, revisar o plano de marketing digital e comparar os resultados com os objetivos definidos para fazer ajustes conforme necessário.
