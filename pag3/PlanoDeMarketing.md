@@ -309,4 +309,207 @@ Expansão de franquias concorrentes no Brasil, pois não podemos simplesmente im
 Mudança do comportamento da pessoa consumidora, à qual a empresa precisa adaptar suas estratégias.
 Finalizamos a nossa Matriz SWOT! No material de apoio desta aula, será deixado um documento para você preencher a Matriz SWOT da sua própria empresa, ou mesmo a da Cão Petshop, com base em toda a pesquisa que realizamos ao longo do curso.
 
+Também conhecida como FOFA, que é um acrônimo alternativo para Forças (Forces), Oportunidades (Opportunities), Fraquezas (Weaknesses) e Ameaças (Threats), a matriz SWOT é uma ferramenta essencial dentro do Plano de Marketing Digital, com ela exploramos vantagens competitivas e tomamos decisões estratégicas.
 
+
+Com a nossa Matriz SWOT já definida, vamos voltar às metas SMART que formulamos na aula anterior. Traçaremos planos de ação para atingí-las por meio da metodologia OKR de gestão para definição de metas assertivas e mensuráveis.
+
+O que são OKRs?
+Objetivos (O)
+Vamos começar pela letra "O", que remete a Objetivos; ou seja, a nossa meta SMART. Podemos nos fazer algumas perguntas para definí-lo:
+
+Onde se quer chegar com as ações que serão realizadas?
+As pessoas envolvidas entendem seu impacto?
+Um objetivo só faz sentido se temos clareza sobre ele e se todos que realizarão as ações realmente concordarem com ele.
+
+Resultados-chave (KR)
+As letras "KR" remetem a Key Results, ou "resultados-chave" em português, sendo as ações que devem ser promovidas para atingir o objetivo, a nossa meta SMART. É importante que essas ações sejam mensuráveis, ou seja, envolver números e prazos, pois eles indicarão o sucesso de cada ação.
+
+Para entender isso melhor, vamos à prática!
+
+OKRs da Cão Petshop
+Se a meta SMART é igual ao objetivo, podemos definir o objetivo da Cão Petshop como:
+
+Expandir a entrega para todo o Brasil, realizando no mínimo três entregas nacionais dentro de dois meses.
+
+Já os resultados-chave, ou seja, as ações planejadas para atingir essa meta, serão:
+
+Setor de marketing: Inserir a loja em uma plataforma com entrega nacional, como o Mercado Livre.
+
+Essa meta é específica e mensurável, pois definimos exatamente quem deve realizar essa ação (o setor de marketing) e o que deve ser feito.
+
+Setor de marketing: Investir 10% do orçamento do marketing em tráfego pago em toda a duração da meta.
+
+Se a entrega agora é realizada a nível nacional e os clientes da Cão Petshop ainda não sabem disso, ou se os anúncios e o site da loja não estão aparecendo para pessoas de todo o Brasil, não faz sentido expandir a entrega. Dessa forma, é necessário investir nos anúncios pagos.
+
+Novamente, essa é uma ação específica, pois definimos o pessoal responsável por ela, e também mensurável pois definimos a parcela do orçamento que deve ser destinada para essa ação.
+
+Desafio
+Pense em pelo menos dois resultados-chave para o segundo objetivo da Cão Petshop:
+
+Aumentar os visitantes do site em 200% no prazo de seis meses.
+
+Os resultados-chave, também conhecidos como Key Results (KR) em OKRs (Objectives and Key Results), são as métricas específicas e mensuráveis que ajudam a medir o progresso e o sucesso na consecução de um objetivo.
+
+Enquanto os objetivos fornecem a direção e o propósito, os resultados-chave são as métricas concretas que indicam se o objetivo está sendo alcançado.
+
+Identificar as dores e necessidades dos clientes, informações valiosas para o planejamento de marketing, com a ferramenta Google Trends e formulários de pós-compra;
+Realizar a Matriz SWOT, identificando forças, fraquezas, oportunidades e ameaças do mercado, elementos avaliados interna e externamente para ajudar as empresas a identificar sua posição atual, explorar vantagens competitivas e tomar decisões estratégicas;
+Criar uma meta utilizando a metodologia OKR, com resultados-chave para o alcance do objetivo.
+
+# SEO
+
+Partindo para a próxima estratégia do marketing digital, temos o SEO, uma estratégia que melhora o posicionamento orgânico em navegadores da web.
+
+SEO
+Mas como a estratégia de SEO irá melhorar os resultados de pesquisa, de modo que nossa empresa apareça em primeiro lugar no Google, por exemplo?
+
+A estratégia utiliza de palavras-chave usadas no conteúdo e repetidas na descrição do vídeo no código, isto é, na meta description, que corresponde à descrição do que é falado em determinado vídeo.
+
+Assim, os buscadores conseguem entregar conteúdos para a pessoa consumidora conforme suas pesquisas.
+
+On page e Off page
+Existem duas estratégias do SEO:
+
+O SEO on page, referente a todo o conteúdo que aparece para a pessoa usuária;
+E SEO off page, que é exatamente a meta description, ou seja, uma parte do código HTML que não irá aparecer para a pessoa usuária, mas que existe e o navegador web irá ler, entendendo que o conteúdo se trata do assunto relacionado ao que a pessoa consumidora busca na internet.
+Tráfego pago
+Vamos abordar outra estratégia do marketing digital: o tráfego pago. São anúncios feitos em plataformas ou mecanismos de buscas. Esses anúncios são pagos, e irão conduzir os leads a páginas específicas e estratégicas.
+
+Essa estratégia fará com que seu site apareça nas primeiras opções de busca, pois o negócio que anuncia o site irá pagar para algumas plataformas, como:
+
+O Meta Business, gerenciador de anúncios do Facebook e do Instagram;
+O Google Ads;
+E o Analytics.
+Essas plataformas, em especial a do Meta Business e a do Google Ads, farão com que seus anúncios apareçam nas redes sociais para pessoas segmentadas conforme o que você quiser. Com esses mecanismos, conseguimos segmentar o público por idade, região, entre outros fatores.
+
+O tráfego pago fará com que sua empresa tenha muito mais visibilidade para as pessoas certas, que realmente são o público-alvo.
+
+O branding é responsável pela personalização da marca, sua comunicação visual e verbal. Ele é importante para que a marca seja reconhecida e humanizada, para que o público sinta semelhanças e conexão com a empresa. Envolve estratégias e ações para estabelecer uma identidade distintiva, definir a proposta de valor e moldar a percepção da marca pelos consumidores.
+
+O objetivo é criar uma conexão emocional e significativa com o público-alvo, se destacar da concorrência e construir uma imagem positiva e duradoura no mercado.
+
+O branding abrange vários elementos, como a identidade da marca (logotipo, cores, tipografia), o posicionamento da marca (diferenciação em relação aos concorrentes), a mensagem da marca (comunicação da proposta de valor), a experiência da marca (interações e vivências dos consumidores) e a gestão da reputação da marca (monitoramento e gerenciamento da percepção).
+
+Um branding bem-sucedido cria uma conexão emocional, resultando em fidelidade, reconhecimento, preferência e valor percebido. É um processo contínuo que requer consistência, autenticidade e investimento em estratégias de construção e fortalecimento da marca ao longo do tempo.
+
+Agora vamos falar sobre uma nova estratégia de marketing digital: a inbound marketing, também conhecida como marketing de atração.
+
+Inbound marketing
+Nessa estratégia, a empresa vai atrás da pessoa consumidora, e não o contrário.
+
+O marketing de atração torna mais barato o custo de aquisição de clientes, pois é feito por meio de sites, landing pages, e funil de vendas. Vamos passar por cada uma dessas estratégias do inbound marketing.
+
+Sites
+A primeira estratégia são os sites. O site de uma empresa será amplamente divulgado em plataformas de tráfego pago, como, por exemplo, o Google. Clientes irão encontrar seu site através de uma pesquisa, ou seja, eles vão atrás da sua empresa.
+
+Landing pages
+Outra estratégia são as landing pages, sites que possuem uma única página e que são geralmente feitas para que clientes insiram dados, como e-mail ou número, para fazer parte da lista de clientes da empresa.
+
+Landing pages são muito utilizadas para promoções ou para promover e-books. É algo que você dará em troca do dado da sua pessoa consumidora.
+
+Funil de vendas
+Por fim, temos a estratégia de funil de vendas. Ele segmenta exatamente em qual fase a pessoa cliente está: se ela está pronta para comprar, se ainda tem dúvidas, se já comprou, e assim por diante. A partir disso, os conteúdos do inbound marketing serão direcionados para o estágio específico em que a pessoa está.
+
+Por exemplo: se ela não tiver certeza de que quer realizar uma compra, a empresa irá exibir conteúdos que a convençam de comprar.
+
+Estratégias de marketing digital
+Agora que já definimos ações para a nossa meta, vamos entender quais são as estratégias de marketing digital que podem ser desempenhadas para essas ações terem sucesso.
+
+Automação
+A primeira estratégia que vamos analisar é a automação, que significa a automatização de ações e processos. Ela é usada para atingir clientes em escala, sem perder a personalização.
+
+Exemplos:
+
+Envio de e-mails em massa;
+Agendamento de postagens;
+Mensagens automáticas.
+O benefício da automação para os e-mails em massa é que conseguimos enviar o mesmo e-mail para 2.000 clientes, por exemplo, porém com o nome personalizado de cada um. Isso facilita um trabalho que, manualmente, levaria horas, podendo ser feito em minutos com a automação.
+
+Já para o agendamento de postagens, temos o seguinte benefício: a pessoa social media não precisará se preocupar com sua disponibilidade em horários específicos que a publicação deve sair. Nesse caso, ela pode pedir para a plataforma postar em uma data e horário determinados.
+
+Muitas vezes, a pessoa social media atende diversos clientes, e pode ser difícil a memória desempenhar esse mesmo papel para 10 contas, por exemplo.
+
+Quanto aos benefícios com mensagens automáticas, imagine a seguinte situação: você abriu uma conversa no WhatsApp com uma loja, e a primeira mensagem exibida foi um menu com todas as opções de serviço que esse e-commerce possui.
+
+Essa é uma mensagem automática que facilita, por exemplo, o direcionamento da pessoa cliente para o setor responsável. Além disso, é reduzido o tempo que a pessoa levaria para fazer o mesmo processo manualmente.
+
+Branding
+Outra estratégia de marketing digital é o branding, que são ações alinhadas ao posicionamento da marcam. Elas causam emoções conscientes e inconscientes na pessoa consumidora.
+
+Por exemplo: uma empresa pode fazer uma campanha com um influenciador digital virtual, e ele pode ter as características físicas do maior público consumidor da organização. Isso irá causar, emocionalmente, consciente ou inconscientemente, uma conexão do público com a marca.
+
+As ações de branding são relacionadas à:
+
+Identidade visual de uma empresa;
+Personalidade da marca;
+E aos canais de relacionamento.
+A marca deve estar atenta aos canal em que a pessoa cliente está presente. Não adianta, por exemplo, o público consumidor estar presente muito mais tempo no Facebook, e a marca não estar na plataforma.
+
+Então, o branding deve ser focado em criar uma conexão entre marca e consumidor.
+
+Marketing de conteúdo
+Outra estratégia muito importante é o marketing de conteúdo, que consiste em conteúdos relevantes para o público e que gerem valor. Esses conteúdos trazem soluções para os problemas das pessoas clientes.
+
+A característica mais marcante do marketing de conteúdo é que a pessoa consumidora irá encontrar seu negócio por meio de um assunto que lhe interesse, não sendo exatamente uma venda.
+
+Essa pessoa consumidora pode nem saber que tem um problema, ler uma postagem de blog da sua marca, e identificar algo que a leve para a sua loja. O marketing de conteúdo atrai a pessoa visitante por meio de um conteúdo de valor extremo para ela.
+
+SEO (Search Engine Optimization), em português Otimização para Mecanismos de Busca, é um assunto muito importante e amplo. Com essa estratégia é possível melhorar a posição do seu negócio nos resultados de busca de pesquisadores, como o Google.
+
+Agora vamos sintetizar em uma planilha todas as informações de estudos e pesquisas que fizemos ao longo do curso, para conseguirmos visualizar um quadro geral das ações que foram programadas no plano de marketing digital.
+
+Planilha: cronograma e métricas
+A planilha nos permitirá organizar as informações e identificar as estratégias necessárias para atingir cada resultado-chave. Vamos preenchê-la com as informações reunidas no decorrer dos nossos estudos. Abaixo, o modelo que será preenchido:
+
+Planilha composta por um campo inicial no topo à esquerda, intitulado "Duração da meta" e preenchido em cinza. Abaixo, há uma tabela que está descrita a seguir na transcrição. O campo "OBJETIVO" está preenchido em verde; os campos "KEY RESULTS", em laranja-claro; o que contém o OKR, em amarelo-claro; e os campos "DATA DE ENTREGA", "RESPONSÁVEL", e "ESTRATÉGIA", em azul-claro.
+#	OBJETIVO	#	#	#
+OKR 1	(OKR)	DATA DE ENTREGA	RESPONSÁVEL	ESTRATÉGIA
+KEY RESULTS	(Resultado-chave 1)	…	…	…
+KEY RESULTS	(Resultado-chave 2)	…	…	…
+Primeiramente, precisamos preencher a planilha com o OKR 1 definido. No caso do nosso cliente, o Cão Pet Shop, o primeiro OKR foi o seguinte:
+
+Expandir a entrega para todo o Brasil, realizando no mínimo 3 entregas nacionais.
+
+No canto superior esquerdo da planilha, conseguimos identificar o campo "Duração da meta". A duração definida pelo nosso cliente foi 2 meses, então preenchemos com esse tempo.
+
+Definido o OKR, precisamos focar nos key results, correspondentes às duas ações que definimos anteriormente. São elas:
+
+Inserir a loja em uma plataforma com entrega nacional, como Mercado Livre;
+Investir 10% do orçamento do marketing em tráfego pago, em toda a duração da meta.
+Não iremos preencher o campo de data de entrega, pois isso depende do plano de marketing digital que você estiver fazendo. Essa data pode ser daqui a 3 meses, daqui a 2 meses, por exemplo; isso será definido de acordo com o atingível para a sua empresa.
+
+A próxima coluna da planilha se refere a quem será responsável pelo atingimento dos key results. No nosso caso, será o setor de marketing.
+
+Outra coluna muito importante de ser preenchida é a de estratégia. Para atingirmos a meta (key result) de inserir a loja em uma plataforma com entrega nacional, a estratégia definida foi inbound marketing, pois se trata de uma estratégia de marketing de atração, além de minimizar o custo da aquisição de clientes.
+
+Através da estratégia de inbound marketing, o Cão Pet Shop poderá divulgar na internet para pessoas de todo o Brasil que agora faz entregas nacionais. Isso irá baratear o custo, pois haverá muitas visualizações, o anúncio será direcionado a muitas pessoas, e assim, cada clique custará menos do que se o anúncio fosse segmentado para apenas uma região.
+
+O segundo key result é investir 10% do orçamento do marketing em tráfego pago, em toda a duração da meta. Novamente, teremos o setor de marketing como responsável, mas dessa vez com a estratégia de tráfego pago.
+
+Note que estratégia já está definida no próprio key result.
+
+Obtivemos a seguinte tabela para a primeira OKR:
+
+#	OBJETIVO	#	#	#
+OKR 1	Expandir a entrega para todo o Brasil, realizando no mínimo 3 entregas nacionais.	DATA DE ENTREGA	RESPONSÁVEL	ESTRATÉGIA
+KEY RESULTS	Inserir a loja em uma plataforma com entrega nacional, como Mercado Livre	…	Setor de marketing	Inbound marketing
+KEY RESULTS	Investir 10% do orçamento do marketing em tráfego pago, em toda a duração da meta.	…	Setor de marketing	Tráfego pago
+Desafio!
+Agora vou te propor um desafio. Você se lembra do objetivo abaixo?
+
+Aumentar os visitantes do site em 200% no prazo de 6 meses.
+
+O desafio é você identificar quais estratégias e ações podem ser feitas para definir os resultados-chave.
+
+#	OBJETIVO	#	#	#
+OKR 1	Aumentar os visitantes do site em 200% no prazo de 6 meses.	DATA DE ENTREGA	RESPONSÁVEL	ESTRATÉGIA
+KEY RESULTS	…	…	…	…
+KEY RESULTS	…	…	…	…
+Não se preocupe, não há uma resposta certa! Muitas ações podem ser feitas para atingirmos essa meta, assim como existem diversas estratégias no marketing digital que podemos utilizar, como o próprio tráfego pago e o SEO.
+
+Queremos que você use sua criatividade e, principalmente, coloque em prática tudo o que aprendemos até o momento. Vamos juntos?!
+
+Realizar estratégias de automação, branding e marketing de conteúdo para manter a empresa atenta as tendências, necessidades dos clientes e demandas do mercado;
+Utilizar estratégias de marketing digital como inbound marketing, SEO e tráfego pago para aumentar a visibilidade, atrair tráfego qualificado e melhorar a interação com os clientes;
+Elaborar um cronograma de marketing digital, com OKRs, resultados-chave, prazos e responsáveis visando direcionar recursos de maneira mais eficiente e eficaz, maximizando os resultados obtidos.
